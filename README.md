@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C126%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C124%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C124%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .tours one-word domains from Uniqu
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,126 rows · **Live catalog:** 9,124 domains
+**Public extract:** 9,124 rows · **Live catalog:** 9,124 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tours`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TOURS one-word domain
 
 ### Files
 
-- `tours.csv` — public CSV extract (9,126 rows)
-- `tours.json` — public JSON extract (9,126 rows)
+- `tours.csv` — public CSV extract (9,124 rows)
+- `tours.json` — public JSON extract (9,124 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| mix.tours       | available | $9.99     | $83.99        | 66             | 44     | 3      | name.com         |
-| single.tours    | resell    | $9.99     | $83.99        | 74             | 23     | 6      | Dynadot Inc      |
-| power.tours     | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap        |
-| creator.tours   | available | $9.99     | $83.99        | 70             | 43     | 7      | name.com         |
-| clever.tours    | resell    | —         | —             | 74             | 99     | 6      | Dynadot Inc      |
-| ace.tours       | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com         |
-| track.tours     | available | $9.99     | $83.99        | 94             | 42     | 5      | name.com         |
-| test.tours      | resell    | —         | —             | 72             | 89     | 4      | Cronon GmbH      |
-| gold.tours      | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap        |
-| agile.tours     | available | $9.99     | $83.99        | 92             | 41     | 5      | name.com         |
-| authentic.tours | resell    | —         | —             | 76             | 83     | 9      | NameSilo, LLC    |
-| big.tours       | premium   | $250      | $250          | 88             | 47     | 3      | name.com         |
-| order.tours     | available | $9.99     | $83.99        | 78             | 41     | 5      | name.com         |
-| now.tours       | resell    | —         | —             | 78             | 66     | 3      | GoDaddy.com, LLC |
-| pop.tours       | premium   | $250      | $250          | 82             | 43     | 3      | name.com         |
-| content.tours   | available | $9.99     | $83.99        | 138            | 40     | 7      | name.com         |
-| domain.tours    | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC     |
-| aaa.tours       | premium   | $128.70   | $128.70       | 70             | 42     | 3      | namecheap        |
-| mark.tours      | available | $9.99     | $83.99        | 66             | 40     | 4      | name.com         |
-| pay.tours       | resell    | —         | —             | 84             | 60     | 3      | Porkbun LLC      |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| mix.tours       | available | $9.99     | $83.99        | 66             | 45     | 3      | name.com                                                  |
+| single.tours    | resell    | $9.99     | $83.99        | 74             | 23     | 6      | Dynadot Inc                                               |
+| power.tours     | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap                                                 |
+| creator.tours   | available | $9.99     | $83.99        | 70             | 43     | 7      | name.com                                                  |
+| test.tours      | resell    | —         | —             | 72             | 89     | 4      | Cronon GmbH                                               |
+| ace.tours       | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                                  |
+| track.tours     | available | $9.99     | $83.99        | 94             | 42     | 5      | name.com                                                  |
+| authentic.tours | resell    | —         | —             | 76             | 83     | 9      | NameSilo, LLC                                             |
+| gold.tours      | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap                                                 |
+| agile.tours     | available | $9.99     | $83.99        | 92             | 41     | 5      | name.com                                                  |
+| now.tours       | resell    | —         | —             | 78             | 66     | 3      | GoDaddy.com, LLC                                          |
+| big.tours       | premium   | $250      | $250          | 88             | 47     | 3      | name.com                                                  |
+| order.tours     | available | $9.99     | $83.99        | 78             | 40     | 5      | name.com                                                  |
+| domain.tours    | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC                                              |
+| pop.tours       | premium   | $250      | $250          | 82             | 43     | 3      | name.com                                                  |
+| mark.tours      | available | $9.99     | $83.99        | 66             | 40     | 4      | name.com                                                  |
+| pay.tours       | resell    | —         | —             | 84             | 60     | 3      | Porkbun LLC                                               |
+| aaa.tours       | premium   | $128.70   | $128.70       | 70             | 42     | 3      | namecheap                                                 |
+| content.tours   | available | $9.99     | $83.99        | 138            | 39     | 7      | name.com                                                  |
+| cloud.tours     | resell    | —         | —             | 70             | 59     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,126-row public sample | 9,124 live domains                               |
+| 9,124-row public sample | 9,124 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
