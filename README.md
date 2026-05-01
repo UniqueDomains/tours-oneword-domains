@@ -1,10 +1,10 @@
-# Available .TOURS One-Word Domains (11,629)
+# Available .TOURS One-Word Domains (12,035)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C629%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C035%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tours one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,629 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,035 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,629 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,035 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/tours`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| Ryan.tours     | available | $81.98    | —             | 60             | 44     | 4      | namecheap                               |
-| SanDiego.tours | resell    | —         | —             | 74             | 29     | 9      | NameSilo, LLC                           |
-| jobs.tours     | premium   | $1,000    | —             | 79             | 42     | 4      | name.com                                |
-| Tools.tours    | available | $81.98    | —             | 56             | 40     | 5      | namecheap                               |
-| xmas.tours     | resell    | —         | —             | 84             | 18     | 4      | Spaceship, Inc.                         |
-| ideas.tours    | available | $9.99     | —             | 62             | 37     | 5      | name.com                                |
-| travels.tours  | resell    | —         | —             | 64             | 18     | 7      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| slots.tours    | available | $9.99     | —             | 49             | 31     | 5      | name.com                                |
-| heroes.tours   | available | $9.99     | —             | 68             | 29     | 6      | name.com                                |
-| cams.tours     | available | $9.99     | —             | 52             | 29     | 4      | name.com                                |
-| dogs.tours     | available | $9.99     | —             | 76             | 28     | 4      | name.com                                |
-| backyard.tours | available | $9.99     | —             | 80             | 27     | 9      | name.com                                |
-| trades.tours   | available | $9.99     | —             | 71             | 26     | 6      | name.com                                |
-| doctors.tours  | available | $9.99     | —             | 56             | 26     | 7      | name.com                                |
-| sites.tours    | available | $9.99     | —             | 53             | 26     | 5      | name.com                                |
-| drops.tours    | available | $9.99     | —             | 52             | 25     | 5      | name.com                                |
-| Trex.tours     | available | $81.98    | —             | 80             | 24     | 5      | namecheap                               |
-| pops.tours     | available | $9.99     | —             | 74             | 24     | 4      | name.com                                |
-| chem.tours     | available | $9.99     | —             | 74             | 24     | 4      | name.com                                |
-| shops.tours    | available | $9.99     | —             | 64             | 24     | 5      | name.com                                |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
+| Ryan.tours         | available | $81.98    | —             | 60             | 44     | 4      | namecheap                               |
+| SanDiego.tours     | resell    | —         | —             | 74             | 29     | 9      | NameSilo, LLC                           |
+| Tools.tours        | available | $81.98    | —             | 56             | 40     | 5      | namecheap                               |
+| xmas.tours         | resell    | —         | —             | 84             | 18     | 4      | Spaceship, Inc.                         |
+| slots.tours        | available | $9.99     | —             | 49             | 31     | 5      | name.com                                |
+| travels.tours      | resell    | —         | —             | 64             | 18     | 7      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| heroes.tours       | available | $9.99     | —             | 68             | 29     | 6      | name.com                                |
+| cams.tours         | available | $9.99     | —             | 52             | 29     | 4      | name.com                                |
+| dogs.tours         | available | $9.99     | —             | 76             | 28     | 4      | name.com                                |
+| trades.tours       | available | $9.99     | —             | 71             | 26     | 6      | name.com                                |
+| doctors.tours      | available | $9.99     | —             | 56             | 26     | 7      | name.com                                |
+| sites.tours        | available | $9.99     | —             | 53             | 26     | 5      | name.com                                |
+| drops.tours        | available | $9.99     | —             | 52             | 25     | 5      | name.com                                |
+| Trex.tours         | available | $81.98    | —             | 80             | 24     | 5      | namecheap                               |
+| pops.tours         | available | $9.99     | —             | 74             | 24     | 4      | name.com                                |
+| chem.tours         | available | $9.99     | —             | 74             | 24     | 4      | name.com                                |
+| shops.tours        | available | $9.99     | —             | 64             | 24     | 5      | name.com                                |
+| rekt.tours         | available | $9.99     | —             | 40             | 24     | 4      | name.com                                |
+| superhero.tours    | available | $9.99     | —             | 84             | 23     | 9      | name.com                                |
+| deeplearning.tours | available | $9.99     | —             | 74             | 23     | 13     | name.com                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,629 live domains                              |
+| 1,000-row public sample | 12,035 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
