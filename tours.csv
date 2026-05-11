@@ -817,6 +817,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 48a27399-8480-4c5f-942a-dacf3331c05c,reunions.tours,available,9.99,,58,5,8,name.com,,
 48a85dcb-0c12-4ec9-8a2d-5425664947d5,beonto.tours,available,9.99,,74,1,8,name.com,,
 48c111d9-370c-4c05-8b93-2e6c6b22ef29,pigeons.tours,available,9.99,,50,10,7,name.com,,
+48cd1a5a-2d37-478f-bccb-2bec2059dc6a,smartphone.tours,available,9.99,,78,18,10,name.com,,
 48cf5447-f116-4ded-aaa2-d6dc83456e8e,goballistic.tours,available,9.99,,68,2,12,name.com,,
 48d5f7b1-cc7f-42ae-a99c-5aac0440a67c,semifinal.tours,available,9.99,,72,2,10,name.com,,
 48ef2b2f-0764-4ade-b581-5a528553033c,Serbs.tours,available,9.99,,51,2,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 585ea3f2-7e55-487d-b612-6866664a42aa,creditspread.tours,available,9.99,,60,1,13,name.com,,
 586e3881-d29a-42f7-afbe-46e15133da2b,letsomeonego.tours,available,9.99,,69,1,14,name.com,,
 58ea56c1-de19-4043-a9ee-4d951ff2cb5b,ratios.tours,available,9.99,,46,5,6,name.com,,
-590926a1-63d5-4101-8525-674a9876634c,pointofcare.tours,available,9.99,,70,4,13,name.com,,
