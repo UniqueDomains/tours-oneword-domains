@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .tours one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,031 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,031 domains · **Median ask:** $15.59 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,031 domains · **Median ask:** $13.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tours`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tours`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TOURS one-word domain
 
 ### Files
 
-- `tours.csv` — public CSV extract (1,000 rows)
-- `tours.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tours.csv`, public CSV extract (1,000 rows)
+- `tours.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| Ryan.tours         | available | $81.98    | —             | 60             | 44     | 4      | namecheap                               |
-| SanDiego.tours     | resell    | —         | —             | 74             | 29     | 9      | NameSilo, LLC                           |
-| Tools.tours        | available | $81.98    | —             | 56             | 40     | 5      | namecheap                               |
-| xmas.tours         | resell    | —         | —             | 84             | 18     | 4      | Spaceship, Inc.                         |
-| slots.tours        | available | $9.99     | —             | 49             | 31     | 5      | name.com                                |
-| travels.tours      | resell    | —         | —             | 64             | 18     | 7      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| heroes.tours       | available | $9.99     | —             | 68             | 29     | 6      | name.com                                |
-| cams.tours         | available | $9.99     | —             | 52             | 29     | 4      | name.com                                |
-| dogs.tours         | available | $9.99     | —             | 76             | 28     | 4      | name.com                                |
-| trades.tours       | available | $9.99     | —             | 71             | 26     | 6      | name.com                                |
-| doctors.tours      | available | $9.99     | —             | 56             | 26     | 7      | name.com                                |
-| sites.tours        | available | $9.99     | —             | 53             | 26     | 5      | name.com                                |
-| drops.tours        | available | $9.99     | —             | 52             | 25     | 5      | name.com                                |
-| Trex.tours         | available | $81.98    | —             | 80             | 24     | 5      | namecheap                               |
-| pops.tours         | available | $9.99     | —             | 74             | 24     | 4      | name.com                                |
-| chem.tours         | available | $9.99     | —             | 74             | 24     | 4      | name.com                                |
-| shops.tours        | available | $9.99     | —             | 64             | 24     | 5      | name.com                                |
-| rekt.tours         | available | $9.99     | —             | 40             | 24     | 4      | name.com                                |
-| superhero.tours    | available | $9.99     | —             | 84             | 23     | 9      | name.com                                |
-| deeplearning.tours | available | $9.99     | —             | 74             | 23     | 13     | name.com                                |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| dip.tours        | available | $9.99     | $83.99        | high           | low    | 3      | name.com          |
+| incredible.tours | resell    | $9.99     | —             | high           | low    | 10     | GoDaddy.com, LLC  |
+| NYC.tours        | premium   | $854      | $854          | high           | medium | 3      | namesilo          |
+| due.tours        | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| fix.tours        | resell    | —         | —             | medium         | low    | 3      | IONOS SE          |
+| org.tours        | premium   | $854      | $854          | medium         | medium | 3      | namesilo          |
+| Eid.tours        | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| key.tours        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 39 |
+| asian.tours      | premium   | $500      | —             | high           | low    | 5      | name.com          |
+| hit.tours        | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| sky.tours        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| power.tours      | premium   | $128.70   | $128.70       | high           | medium | 5      | namecheap         |
+| ill.tours        | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| beer.tours       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| value.tours      | premium   | $500      | —             | high           | low    | 5      | name.com          |
+| MMR.tours        | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| fine.tours       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| water.tours      | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo          |
+| opt.tours        | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| have.tours       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .tours domains. The names range from generic terms such as needs.tours and backup.tours to more vivid words like flame.tours, bullet.tours, and granola.tours. For founders, the key question is whether the word feels specific enough for travel, experiences, or guided discovery without sounding forced. For investors, the main issue is niche resale depth: .tours can fit exact-match commercial use, but demand is narrower than broader extensions. When comparing these domains, weigh keyword clarity, memorability, pronunciation, and whether the word naturally strengthens the .tours ending rather than merely sitting in front of it.
+This selection includes 12,031 one-word .tours domain names, spanning travel, leisure, and lifestyle themes such as bonvoyage.tours, keepfit.tours, and fasttimes.tours. With a median asking price near $13, the .tours extension offers a low-cost entry point for brandable, memorable names tied to travel and adventure. Names range from simple action words to playful compounds, giving founders a wide shortlist to choose from and giving investors broad coverage across a single niche TLD.
 
-- Favor words that pair naturally with the .tours extension
-- Use median ask 15.59 as a baseline for price discipline
-- Check if the word is memorable, clear, and easy to say
-- Avoid terms with obvious trademark or weak travel relevance
+- 12,031 one-word .tours domain names in this selection
+- Median asking price near $13 across the list
+- Travel and lifestyle themes: bonvoyage, keepfit, fasttimes
+- Updated daily to reflect the freshest ownable names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
