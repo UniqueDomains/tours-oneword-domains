@@ -238,7 +238,7 @@ d8d6646b-5a26-4db8-9e96-44d21e0d6991,compliant.tours,available,9.99,83.99,medium
 1ba62443-84a6-428c-88cd-9914922bf28c,abroad.tours,available,9.99,83.99,high,low,6,name.com,,
 c09b8b64-5316-4557-8cc5-aa1ff2fe86b4,keeptime.tours,available,9.99,,high,low,9,name.com,,
 163e5c5c-07e3-4c18-9b5d-93d7b95356e3,annular.tours,available,,,medium,low,7,,,
-ff057c3e-ea74-44cb-b0fb-9d34aba175a3,access.tours,resell,,,high,medium,6,Dynadot Inc,22/01/2026 17:01,22/01/2027 17:01
+ff057c3e-ea74-44cb-b0fb-9d34aba175a3,access.tours,resell,,,medium,medium,6,Dynadot Inc,22/01/2026 17:01,22/01/2027 17:01
 f42eb10d-c897-498e-a280-769618c44cf0,worth.tours,available,9.99,,high,low,5,name.com,,
 5bebe465-4c2f-415d-a900-4bb6451f7be2,simplify.tours,available,9.99,,high,low,8,name.com,,
 83d40491-b03a-4950-9fd0-73c946426efa,suggest.tours,available,9.99,,high,low,7,name.com,,
@@ -437,7 +437,7 @@ aafe210f-9d7f-4802-bd31-dde21c82a4df,receipt.tours,available,9.99,,high,low,7,na
 7decf5b6-5cbf-4ff6-9af6-bccb63b415e6,bearish.tours,available,5.98,81.98,low,low,7,namecheap,,
 c6def79d-5f7b-4b04-a425-420c0aac9802,replacement.tours,available,9.99,,medium,low,11,name.com,,
 fb0259ad-5082-442e-b848-ab1fe6bdeb6e,make.tours,available,9.99,,high,medium,4,name.com,,
-c2313c73-02e7-4e5a-8d10-f8110538c39e,procedure.tours,available,9.99,,medium,low,9,name.com,,
+c2313c73-02e7-4e5a-8d10-f8110538c39e,procedure.tours,available,5.98,81.98,medium,low,9,namecheap,,
 8a4ddffd-83a6-491e-86c0-2388f2d70bc3,guard.tours,available,9.99,,medium,low,5,name.com,,
 cacfa713-39e4-4198-a667-c1ab9c32e976,ague.tours,available,5.98,81.98,low,low,4,namecheap,,
 0e1ea37c-870b-4dcc-b067-a2ddb910153d,puttogether.tours,available,9.99,,medium,low,12,name.com,,
@@ -534,7 +534,7 @@ d69c0661-b70e-4009-8ef0-2da78ab843c7,sundress.tours,available,9.99,,high,low,8,n
 1de0648d-6ef7-424b-80e2-8b3515730af3,brute.tours,available,5.98,81.98,low,low,5,namecheap,,
 9e7a4f9c-7adc-46ee-b534-e7c18aa2a10a,aborticide.tours,available,5.98,81.98,low,low,10,namecheap,,
 bc6e4666-ae2e-4ff5-8589-580a9d3be793,essential.tours,available,9.99,83.99,high,low,9,name.com,,
-e0ee9ae0-37cf-4980-bc83-a6132c76c112,effort.tours,available,9.99,,high,low,6,name.com,,
+e0ee9ae0-37cf-4980-bc83-a6132c76c112,effort.tours,available,5.98,81.98,medium,low,6,namecheap,,
 bfc22e98-88dc-48bf-9985-0d2677ffbec3,grandfatherinlaw.tours,available,9.99,,high,low,18,name.com,,
 1f433b8c-7e09-4e52-9789-d6bc0548a6b1,kamikaze.tours,available,9.99,,high,low,8,name.com,,
 517a66b2-7269-4337-a943-968f05c52bd8,separateschool.tours,available,9.99,,high,low,15,name.com,,
