@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tours one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,598 domains · **Median ask:** $9.00 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/tours`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | beer.tours       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
 | water.tours      | premium   | $78.54    | $78.54        | medium         | medium | 5      | namesilo          |
 | hit.tours        | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| fine.tours       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| fine.tours       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
