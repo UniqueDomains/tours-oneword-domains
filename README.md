@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tours one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,245 domains · **Median ask:** $8.95 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/tours`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| come.tours       | available | $9.99     | —             | high           | low    | 4      | name.com          |
-| action.tours     | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC      |
 | ape.tours        | available | $5.98     | $81.98        | medium         | low    | 3      | namecheap         |
 | incredible.tours | resell    | $9.99     | —             | high           | low    | 10     | GoDaddy.com, LLC  |
 | nyc.tours        | premium   | $854      | $854          | high           | medium | 3      | namesilo          |
@@ -84,6 +82,8 @@ print(df.head())
 | fin.tours        | available | $5.98     | $81.98        | low            | low    | 3      | namecheap         |
 | fine.tours       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
 | water.tours      | premium   | $78.54    | $78.54        | medium         | medium | 5      | namesilo          |
+| hit.tours        | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| have.tours       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOURS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
