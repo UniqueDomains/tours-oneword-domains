@@ -2,6 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 da4fd390-dd6a-4e10-a4c2-52dd79ec8ffb,convertible.tours,available,5.98,81.98,high,low,11,namecheap,,,28/09/2026 15:45
 a68a689f-e4b4-4948-80a8-020f5487ef12,dna.tours,resell,,,high,medium,3,Dynadot Inc,22/01/2026 17:01,22/01/2027 17:01,29/09/2026 14:01
 50ca2d0b-a92a-433d-9c81-94f24f165de6,licence.tours,available,5.98,81.98,high,low,7,namecheap,,,01/10/2026 02:54
+eaeb8e21-64be-45aa-9719-434f39c6a188,nos.tours,available,10.99,61.99,high,low,3,namesilo,,,02/10/2026 01:37
 b0a3f737-4f8c-4087-8eff-36a9242d5517,multiple.tours,available,10.99,61.99,high,low,8,namesilo,,,25/09/2026 22:06
 5fcab4f1-ca55-479e-b2e6-2626b6defb9f,athletic.tours,available,10.99,61.99,high,low,8,namesilo,,,21/09/2026 16:12
 c74df48a-df26-4029-a7e9-9cc91dd6a9d4,gill.tours,available,10.99,61.99,high,low,4,namesilo,,,24/09/2026 08:09
@@ -27,11 +28,12 @@ a3f1f95a-d093-43bf-8c64-47b58d284583,nacreous.tours,available,5.98,81.98,medium,
 515110da-a692-4b93-84dc-d863d76a9c20,darkening.tours,available,9.99,83.99,medium,low,9,name.com,,,13/08/2026 18:10
 04802a7f-37ec-4d29-ae09-ccd3824a5aba,jaundice.tours,available,10.99,61.99,medium,low,8,namesilo,,,17/09/2026 03:10
 16114d9a-d6e3-487e-8e27-ac1f30ec6abd,beeline.tours,available,10.99,61.99,high,low,7,namesilo,,,23/09/2026 01:18
-71ff20b1-1d2e-4ee0-ab80-6da5d5997d8f,health.tours,resell,,,high,medium,6,"GoDaddy.com, LLC",24/09/2016 17:45,24/09/2027 17:45,30/09/2026 07:37
+71ff20b1-1d2e-4ee0-ab80-6da5d5997d8f,health.tours,resell,,,high,medium,6,"GoDaddy.com, LLC",24/09/2016 17:45,24/09/2027 17:45,02/10/2026 03:51
 31fe771e-bf5a-4088-9c4f-c608611b2a69,hmm.tours,available,5.38,49.88,high,low,3,spaceship,,,01/10/2026 04:54
 8d67b701-2896-4821-8a23-32f1ff164c81,isd.tours,available,10.99,61.99,high,low,3,namesilo,,,30/09/2026 15:03
 74e7387d-2835-44e3-834d-b8ecebe2bcf3,phrase.tours,available,5.66,49.95,high,low,6,porkbun,,,29/09/2026 23:31
 29f00731-320b-4119-b7d5-9b25686f0f98,squatting.tours,available,5.98,81.98,medium,low,9,namecheap,,,10/09/2026 17:35
+53f5a505-8052-42c8-b16d-253c8daca1a3,economies.tours,available,48.2,48.2,medium,low,9,cloudflare,,,02/10/2026 03:52
 67cbf8ee-325b-4040-956b-d89c24eda118,shears.tours,available,48.2,48.2,high,low,6,cloudflare,,,30/09/2026 11:05
 08833506-02df-414b-a453-67c5e4fa7aac,scurrilous.tours,available,5.98,81.98,medium,low,10,namecheap,,,
 c390ef9d-c282-4dad-833f-168077f79074,ismaili.tours,available,5.98,81.98,high,low,7,namecheap,,,22/08/2026 10:53
@@ -41,6 +43,7 @@ c390ef9d-c282-4dad-833f-168077f79074,ismaili.tours,available,5.98,81.98,high,low
 df5ce39d-77e5-4391-b6dd-49fa4bccb66e,rescue.tours,available,5.38,49.88,high,low,6,spaceship,,,29/09/2026 13:46
 7accefe3-d8d7-42aa-aede-ac77bd97b820,libber.tours,available,5.98,81.98,medium,low,6,namecheap,,,18/08/2026 01:03
 cb6f3135-7df9-4fa4-a17a-ac7caf6a62b5,undefiled.tours,available,5.98,81.98,medium,low,9,namecheap,,,12/09/2026 06:15
+4880a6be-2b19-4cf5-b858-80f39760aaf7,sufism.tours,available,10.99,61.99,medium,low,6,namesilo,,,01/10/2026 21:54
 89dba78f-af9d-4ba6-ae5a-7cc3427089f3,trichrome.tours,available,5.98,81.98,medium,low,9,namecheap,,,11/09/2026 19:24
 ee0e77a1-789b-4f43-ad12-ce3fa229cad9,capability.tours,available,10.99,61.99,high,low,10,namesilo,,,24/09/2026 12:11
 a5d7a029-ef3f-43b7-a38b-ffea8663a8f3,lunger.tours,available,5.98,81.98,medium,low,6,namecheap,,,12/08/2026 23:06
@@ -55,8 +58,11 @@ b4682c39-129d-41ed-be65-4e5fa2cc217e,pellmell.tours,available,5.98,81.98,medium,
 cfbdeffc-9146-4c50-ad15-97d2b470c3a8,unethical.tours,available,5.98,81.98,medium,low,9,namecheap,,,12/09/2026 09:19
 22e7c0c7-dee2-491f-b639-e5d276ee4d9c,settling.tours,available,5.98,81.98,medium,low,8,namecheap,,,28/09/2026 20:24
 cfdae4a3-4bc7-46a4-ae60-a650626054e5,surmise.tours,available,5.98,81.98,high,low,7,namecheap,,,11/09/2026 04:51
+20e55f20-5eb6-4957-bcfe-61f3b6cb4a2e,stoop.tours,available,48.2,48.2,high,low,5,cloudflare,,,02/10/2026 04:31
+f404ae97-3047-44c2-8d87-b6c3b5775727,collectives.tours,available,5.38,49.88,medium,low,11,spaceship,,,02/10/2026 02:49
 543997f6-c1fd-4174-bc59-e5cfbf640b61,atticus.tours,available,10.99,61.99,medium,low,7,namesilo,,,21/09/2026 01:46
 dc66b507-095d-4345-b433-42c9fedeefcd,dullard.tours,available,5.98,81.98,low,low,7,namecheap,,,10/09/2026 23:07
+68e5c8b3-5d8f-4f6d-9ebe-957cdae3ff27,cutters.tours,available,10.99,61.99,medium,low,7,namesilo,,,01/10/2026 18:41
 c084a593-ed6a-4569-86bf-4888d6155805,operose.tours,available,5.98,81.98,medium,low,7,namecheap,,,06/08/2026 17:05
 a44feb3a-1a69-418c-a201-7a5d002e94fe,magnetized.tours,available,5.98,81.98,medium,low,10,namecheap,,,24/08/2026 13:04
 395abdc8-2676-4c1f-ba04-50d6374fb99d,elapsed.tours,available,5.98,81.98,medium,low,7,namecheap,,,16/08/2026 00:41
@@ -71,15 +77,18 @@ f77f0e14-ddd2-4962-ac8e-3e4b3b7fb627,pals.tours,available,10.99,61.99,high,low,4
 af8262cf-9a69-4a67-b22d-c67b8b6f3acb,granddad.tours,available,48.2,48.2,high,low,8,cloudflare,,,29/09/2026 21:09
 e8a73c2f-3b62-4198-a225-7ae9fad7d0d0,utc.tours,available,5.38,49.88,medium,low,3,spaceship,,,28/09/2026 09:27
 a5412343-3d3e-4e76-8414-c8a3fe5da610,reactions.tours,available,10.99,61.99,medium,low,9,namesilo,,,29/09/2026 05:35
+5d284869-7c57-4be7-94a2-5650d8e19618,purgatory.tours,available,5.98,81.98,high,low,9,namecheap,,,01/10/2026 21:24
 3e3d9a5b-3fc3-4e53-bd64-b558f2654963,hotfoot.tours,available,5.98,81.98,high,low,7,namecheap,,,09/09/2026 19:44
 daffc3fd-a93b-452f-8ab7-ef840a3dbd40,overs.tours,available,10.99,61.99,medium,low,5,namesilo,,,20/09/2026 10:07
 f5be8584-089c-4e3b-ae28-3df307f7d14f,apulia.tours,available,10.99,61.99,medium,low,6,namesilo,,,19/09/2026 22:42
 ac0af960-9104-469d-a75f-a6bc46a1d04f,fortissimo.tours,available,5.98,81.98,high,low,10,namecheap,,,18/08/2026 12:41
+251fa423-c189-4fb0-a40b-117f419fbbcd,circa.tours,available,48.2,48.2,high,low,5,cloudflare,,,01/10/2026 22:24
 8be0ab00-c41a-4746-9870-742a2897dddf,diametric.tours,available,5.98,81.98,medium,low,9,namecheap,,,14/08/2026 05:56
 45f5bb4e-6f82-4e52-b091-bbe61bae3072,delight.tours,available,48.2,48.2,high,low,7,cloudflare,,,28/09/2026 16:32
 5427496f-e614-47d5-bf20-19e91d582bb4,anguine.tours,available,5.98,81.98,low,low,7,namecheap,,,
 dafbd302-4ff8-4b10-b608-d403416ebba4,playoffs.tours,available,5.66,49.95,medium,low,8,porkbun,,,30/09/2026 15:19
-fa2d80a9-d42b-45eb-9eab-6fa906c76e83,granting.tours,available,9.99,,high,low,8,name.com,,,
+fa2d80a9-d42b-45eb-9eab-6fa906c76e83,granting.tours,available,48.2,48.2,high,low,8,cloudflare,,,01/10/2026 22:30
+f2080738-26c0-4445-977e-4ab39bf10696,samar.tours,available,5.38,49.88,medium,low,5,spaceship,,,01/10/2026 08:32
 a8218bd1-6ab4-4549-857e-e3fcfacb1155,welkin.tours,available,5.98,81.98,medium,low,6,namecheap,,,16/08/2026 21:01
 ca6d20f8-ea43-458b-9302-3acdddd20db0,inflexibly.tours,available,5.98,81.98,medium,low,10,namecheap,,,15/09/2026 08:16
 fe5e7424-3663-4d5a-b195-db00b87da432,slowly.tours,available,5.98,81.98,medium,low,6,namecheap,,,22/08/2026 23:55
@@ -91,13 +100,13 @@ dc790b30-e894-4416-aa37-7155f9f5f9a4,paved.tours,available,5.98,81.98,high,low,5
 0c97ce7f-9336-4e9a-9ded-6d63907c9624,foretoken.tours,available,10.99,61.99,medium,low,9,namesilo,,,21/09/2026 03:42
 0432c39e-b006-4596-bef9-accf276e4e81,booker.tours,resell,,,high,low,6,,,,30/09/2026 00:51
 65d47983-e71a-4f9f-bdbb-08d47d0d5ea6,belated.tours,available,5.98,81.98,medium,low,7,namecheap,,,09/08/2026 12:37
-3c97198f-2eba-40d7-ac19-f56ee2068550,chemistry.tours,available,5.38,49.88,high,low,9,spaceship,,,28/09/2026 12:10
+3c97198f-2eba-40d7-ac19-f56ee2068550,chemistry.tours,available,5.38,49.88,high,low,9,spaceship,,,01/10/2026 20:13
 b049d4b8-721e-4d52-a770-7ea52b08fca5,mold.tours,available,10.99,61.99,high,low,4,namesilo,,,24/09/2026 15:22
 22df5927-eb36-42c5-aebf-22066a0676f7,prance.tours,available,5.98,81.98,high,low,6,namecheap,,,11/09/2026 05:09
 0366f995-dc50-4d2f-82a7-fb13ffcfed6b,afl.tours,available,10.99,61.99,high,low,3,namesilo,,,17/09/2026 15:04
 39e87d21-42f7-4717-9402-8de6b578e16f,gratefully.tours,available,5.98,81.98,medium,low,10,namecheap,,,13/09/2026 20:28
 79e4ebe6-a73f-4501-813e-f442d6f6e586,backlog.tours,available,10.99,61.99,high,low,7,namesilo,,,21/09/2026 15:41
-37642833-c689-406e-b789-12b881ecaae8,googler.tours,available,9.99,,high,low,7,name.com,,,
+37642833-c689-406e-b789-12b881ecaae8,googler.tours,available,10.99,61.99,high,low,7,namesilo,,,01/10/2026 22:14
 259b968c-dba7-47d8-8260-f99a0d048374,bathtub.tours,available,10.99,61.99,high,low,7,namesilo,,,22/09/2026 13:40
 4b752a6e-02ec-4527-8c8a-a3d8cb595cec,biography.tours,available,5.98,81.98,high,low,9,namecheap,,,23/09/2026 18:09
 0db8e406-d59d-4d3a-9a07-c5691cb37605,backs.tours,available,10.99,61.99,medium,low,5,namesilo,,,18/09/2026 06:41
@@ -149,8 +158,10 @@ e3ea4ea3-dd22-4cd8-9625-39be0abbca8e,vidal.tours,available,5.66,49.95,medium,low
 d06b24a6-9250-4c2a-b6d0-a3249d99f408,cyanide.tours,available,10.99,61.99,medium,low,7,namesilo,,,30/09/2026 09:19
 8c0fc765-a6b5-436e-bd18-d0f068bf1d3b,instep.tours,available,10.99,61.99,high,low,7,namesilo,,,16/09/2026 14:59
 b5da1eea-1dc2-4460-af2b-6d175715d612,participated.tours,available,48.2,48.2,medium,low,12,cloudflare,,,29/09/2026 23:55
+0d26403f-21ea-4106-8eb9-53f37150663d,schiller.tours,available,48.2,48.2,high,low,8,cloudflare,,,02/10/2026 05:31
 cdd2bfc2-ae4f-4ee9-befc-42e65204b7f4,dialogue.tours,available,5.98,81.98,high,low,8,namecheap,,,24/09/2026 22:11
 6745419b-755a-4d80-af3c-e3a1ca812e92,geeks.tours,available,5.98,81.98,medium,low,5,namecheap,,,17/09/2026 16:02
+362238ac-d9b7-4255-82a2-b1d0a819d5b5,racers.tours,available,48.2,48.2,medium,low,6,cloudflare,,,01/10/2026 18:02
 2e98c877-a81f-4b6e-9ec5-5e3a6546e568,beekeeper.tours,available,5.98,81.98,high,low,9,namecheap,,,19/09/2026 17:19
 9e2f10a5-11b0-4ecf-bb17-91c56f2cd51e,dozy.tours,available,5.98,81.98,medium,low,4,namecheap,,,14/08/2026 18:06
 b2d64225-03e9-43a1-9819-0f4055eb4aa5,epochs.tours,available,10.99,61.99,low,low,6,namesilo,,,30/09/2026 15:49
@@ -159,6 +170,7 @@ da824801-2a15-4cdb-a53f-69064c6e1bf2,overstated.tours,available,5.98,81.98,mediu
 f6b70834-e3f2-4f3a-8fd2-804fa1bf8bce,investment.tours,resell,,,high,low,10,"NameCheap, Inc.",07/02/2024 14:18,07/02/2027 14:18,30/09/2026 16:09
 e202992e-430f-4e63-a99c-643ce879d59e,horsemen.tours,available,5.38,49.88,medium,low,8,spaceship,,,30/09/2026 23:19
 2c5f64b8-9e53-40dd-bcc9-510e226187e3,paley.tours,available,10.99,61.99,medium,low,5,namesilo,,,29/09/2026 15:50
+d357c45a-ffb4-4fe6-a3da-85bfb8e00826,svetlana.tours,available,10.99,61.99,high,low,8,namesilo,,,02/10/2026 00:36
 648acd8b-4baf-496d-a62c-60cdbd28fa11,paperback.tours,available,10.99,61.99,high,low,9,namesilo,,,27/09/2026 02:40
 d71b89f5-5728-47f3-8cf6-2de57717a05b,longer.tours,available,48.2,48.2,high,low,6,cloudflare,,,28/09/2026 16:12
 906d1cbf-7204-4a00-80aa-4f85644fe013,spruce.tours,available,9.99,83.99,high,low,6,name.com,,,13/08/2026 17:37
@@ -199,21 +211,24 @@ a84f7440-5303-4022-b387-f72ae5954d78,slithering.tours,available,5.98,81.98,mediu
 6b1b9a70-2768-4142-b1fa-3b2e4c0d2275,dismayed.tours,available,5.98,81.98,medium,low,8,namecheap,,,
 811db0c1-615e-4e48-b1ed-711a3477c34f,uncanny.tours,available,5.98,81.98,high,low,7,namecheap,,,16/08/2026 02:23
 99bc91b7-5ef9-4285-aa96-a3ac96a03d07,bearded.tours,available,5.98,81.98,high,low,7,namecheap,,,08/08/2026 16:05
-844f5218-61f9-48ed-ae8b-2dc4e04b4ae3,study.tours,resell,,,high,low,5,"Spaceship, Inc.",24/09/2017 10:24,24/09/2027 10:24,29/09/2026 04:59
+844f5218-61f9-48ed-ae8b-2dc4e04b4ae3,study.tours,resell,,,high,low,5,"Spaceship, Inc.",24/09/2017 10:24,24/09/2027 10:24,01/10/2026 07:56
 ae330594-96cf-40a9-9a28-218bc076361f,ascetic.tours,available,5.98,81.98,medium,low,7,namecheap,,,07/08/2026 00:56
+8673bb2e-ce1a-45fe-bf96-e59f83841361,intermedia.tours,available,10.99,61.99,high,low,10,namesilo,,,01/10/2026 15:25
 6fe77d5a-01ac-41e0-9ea6-9de14741fe2c,squiffy.tours,available,5.98,81.98,low,low,7,namecheap,,,09/08/2026 16:38
 7e5c6a62-6057-4373-b1c0-18d5a2597350,tricolor.tours,available,5.98,81.98,medium,low,8,namecheap,,,11/09/2026 19:26
 7d66193a-5c35-4799-8084-d24a829b6ecd,disturbed.tours,available,5.98,81.98,medium,low,9,namecheap,,,11/08/2026 01:48
 0134a52d-b464-47ee-b1ce-ca32307918d0,socket.tours,available,5.98,81.98,high,low,6,namecheap,,,29/09/2026 13:58
+513f28c2-d850-45eb-b931-f935d5de73f9,marat.tours,available,5.98,81.98,high,low,5,namecheap,,,02/10/2026 05:28
 704f20b3-8245-4cfb-a942-ff2ba393f80c,shenandoah.tours,available,5.38,49.88,medium,low,10,spaceship,,,27/09/2026 21:14
 ac5730a6-4339-4be7-91da-ba3a6b7e150f,winnings.tours,available,10.99,61.99,high,low,8,namesilo,,,30/09/2026 11:20
 b3301337-7735-42ff-a7f0-21519169e808,pureblood.tours,available,5.98,81.98,medium,low,9,namecheap,,,08/09/2026 13:00
-39550235-2664-449f-9fb8-137b79c78468,cracking.tours,available,5.38,49.88,high,low,8,spaceship,,,28/09/2026 05:52
+39550235-2664-449f-9fb8-137b79c78468,cracking.tours,available,48.2,48.2,high,low,8,cloudflare,,,01/10/2026 15:30
 006df546-c9ee-44c2-8c97-51d14f2b1a0c,treasurer.tours,available,10.99,61.99,high,low,9,namesilo,,,29/09/2026 12:21
 e28ddce1-9d6b-446d-a2db-9f79ba069b40,virginia.tours,premium,118.8,118.8,high,low,8,namesilo,,,25/09/2026 09:38
 b2c0e44e-69a9-4b54-bc41-4f352a245e65,psychic.tours,available,10.99,61.99,high,low,7,namesilo,,,27/09/2026 07:57
 43b5a9ec-7ee9-401c-bc56-1ebde9f7d209,defaulted.tours,available,10.99,61.99,low,low,9,namesilo,,,21/09/2026 07:28
 418dcd3a-581d-4a09-9e7a-a42445a93c3b,digby.tours,available,5.38,49.88,high,low,5,spaceship,,,29/09/2026 15:01
+f4e6cee7-8aa8-45b0-989d-5a722880cde2,morningside.tours,available,5.38,49.88,medium,low,11,spaceship,,,01/10/2026 12:41
 32036950-1518-4cfa-adaa-9238834c9b8d,bakeshop.tours,available,5.98,81.98,high,low,8,namecheap,,,21/09/2026 20:10
 a0cc1ffa-0af0-4f7b-8e7e-48e1a93a1b4c,gunshot.tours,available,5.38,49.88,medium,low,7,spaceship,,,28/09/2026 05:55
 e22e296e-205b-45b5-b692-2780f7c11fbe,equilibrium.tours,available,48.2,48.2,high,low,11,cloudflare,,,29/09/2026 23:01
@@ -225,12 +240,15 @@ e22e296e-205b-45b5-b692-2780f7c11fbe,equilibrium.tours,available,48.2,48.2,high,
 06fb9529-ddd4-46b8-96a2-022b9c665c12,slavish.tours,available,5.98,81.98,medium,low,7,namecheap,,,10/09/2026 10:38
 0d29b23a-7e88-4899-b04d-482fc33a39d7,cruddy.tours,available,5.98,81.98,medium,low,6,namecheap,,,13/08/2026 08:44
 09b5e46c-5302-4a9f-928f-b6142a2d286d,bennet.tours,available,10.99,61.99,high,low,6,namesilo,,,23/09/2026 08:30
+1e592ddd-3def-4966-a05e-6aacaf38a8c1,indigestion.tours,available,5.38,49.88,medium,low,11,spaceship,,,02/10/2026 02:34
 5f545d98-3e43-4e21-ab27-e41717eab32b,acerbity.tours,available,10.99,61.99,medium,low,8,namesilo,,,16/09/2026 23:41
 c7238a39-f419-4a3d-ae17-23b12ee29aa3,unlatched.tours,available,5.98,81.98,medium,low,9,namecheap,,,12/09/2026 01:38
 48fe79e3-a260-46e7-b650-a5d3efc94525,shitty.tours,available,5.98,81.98,high,low,6,namecheap,,,13/08/2026 05:14
 8fd2cc9c-a6f6-4083-89cb-2f73ceba45c7,partizan.tours,available,5.98,81.98,high,low,8,namecheap,,,08/09/2026 02:09
 96ffbf6c-fa2b-4368-8c48-4a3d0e1e1fdb,corrosion.tours,available,5.98,81.98,high,low,9,namecheap,,,24/09/2026 18:21
+115e63f2-40de-451e-bf4e-82b7036b0f4c,crucifixion.tours,available,48.2,48.2,medium,low,11,cloudflare,,,01/10/2026 13:41
 92f4acf5-9e61-48d6-aea7-ace119ef00f6,preparation.tours,available,10.99,61.99,high,low,11,namesilo,,,28/09/2026 12:30
+a38ee74b-7e2c-412e-b612-03aaada013d6,babes.tours,available,5.57,51.58,high,low,5,dynadot,,,01/10/2026 16:19
 24645130-9252-48cb-9044-5ea292ea3336,ataraxic.tours,available,5.98,81.98,medium,low,8,namecheap,,,07/08/2026 12:49
 5023b85e-28f6-40f2-9006-7f12a7f27e56,ipsus.tours,available,5.98,81.98,medium,low,5,namecheap,,,22/09/2026 15:09
 e45930a0-5f34-45b3-b0ff-03571be3dd0e,downfall.tours,available,10.99,61.99,medium,low,8,namesilo,,,24/09/2026 23:39
@@ -243,16 +261,18 @@ b495d35f-a99b-4f01-8196-aa7ea535c899,towne.tours,available,5.66,49.95,medium,low
 f37049f0-bf1a-495b-ad1e-8e7918fce5e1,funeral.tours,available,10.99,61.99,high,low,7,namesilo,,,25/09/2026 22:54
 f1d71676-b871-40e4-8ca6-7a0f875f2a0a,result.tours,available,5.57,51.58,high,low,6,dynadot,,,29/09/2026 11:11
 e04c4d6d-ff0b-469c-bb57-a6565b05e12d,uncrowned.tours,available,5.98,81.98,medium,low,9,namecheap,,,13/08/2026 08:36
-8cfd7230-c38f-4df1-8c14-c7b6681a8fb8,peaking.tours,available,9.99,,high,low,7,name.com,,,
+8cfd7230-c38f-4df1-8c14-c7b6681a8fb8,peaking.tours,available,10.99,61.99,high,low,7,namesilo,,,02/10/2026 02:14
 0743bbe3-e749-4518-bf75-8c49bfefec82,southport.tours,available,10.99,61.99,medium,low,9,namesilo,,,29/09/2026 04:35
 96bd05b8-6f88-481c-961f-4a2eee1903c7,cliche.tours,available,5.98,81.98,high,low,6,namecheap,,,23/09/2026 16:07
 99fca795-cc4d-4db3-a219-bc3b86426277,craving.tours,available,10.99,61.99,high,low,7,namesilo,,,30/09/2026 01:09
 864a9333-2663-41b3-a093-2bc2c5c4b26d,spider.tours,available,10.99,61.99,high,low,6,namesilo,,,26/09/2026 00:23
 bc73dfc6-769c-43dd-b3c1-00c24dfa69f9,adhocracy.tours,available,10.99,61.99,medium,low,9,namesilo,,,17/09/2026 08:02
+2d8c5950-c531-4cb7-bf6c-4e5d52aca282,oxnard.tours,available,5.38,49.88,high,low,6,spaceship,,,02/10/2026 00:45
 05af81c4-f785-42a7-ad12-512f6298936c,cramped.tours,available,5.98,81.98,medium,low,7,namecheap,,,13/08/2026 04:47
 526b90a5-d306-43de-b1f0-ecd2a9ac4147,securely.tours,available,5.98,81.98,high,low,8,namecheap,,,16/09/2026 00:50
 a7188a50-db4d-4c97-959e-a7f35f2400ac,experimentally.tours,available,9.99,,medium,low,14,name.com,,,
 016f914f-4e86-4c15-8917-de8e62299500,wilberforce.tours,available,48.2,48.2,medium,low,11,cloudflare,,,30/09/2026 05:04
+b2bc506e-8006-49b8-b984-382be96ccc35,voigt.tours,available,48.2,48.2,high,low,5,cloudflare,,,02/10/2026 00:35
 704e969c-174b-406f-8a53-8aad25031620,beatnik.tours,available,10.99,61.99,high,low,7,namesilo,,,22/09/2026 21:43
 d3df49b5-35f7-4848-b27c-88573ce64ef7,aquaphobia.tours,available,10.99,61.99,medium,low,10,namesilo,,,19/09/2026 22:59
 4febfb5d-c031-481c-b673-13265eedb140,lucent.tours,available,5.98,81.98,high,low,6,namecheap,,,
@@ -267,11 +287,13 @@ f4ef8340-6729-42e6-9eb6-b34baa555ebf,zamang.tours,available,10.99,61.99,medium,l
 d42e0a25-e1c7-4d8b-8352-546bf4fac6c9,lethal.tours,available,5.98,81.98,high,low,6,namecheap,,,23/08/2026 00:26
 efff1ffe-c82d-408e-81fc-ea4d22214877,foggy.tours,available,5.98,81.98,medium,low,5,namecheap,,,10/08/2026 16:21
 8617f6af-9318-4ef0-b86e-6e3cc5947561,petroleum.tours,available,5.98,81.98,high,low,9,namecheap,,,13/08/2026 08:55
+cf406b32-7a85-4914-8b27-5ca0ccdc7941,marshes.tours,available,5.38,49.88,medium,low,7,spaceship,,,02/10/2026 03:37
 3710b809-9bd7-4735-a7da-096e685a9d5c,dearie.tours,available,9.99,83.99,high,low,6,name.com,,,13/08/2026 18:19
 0adfa0e4-5989-4196-a78a-181824e1cc7f,avenge.tours,available,10.99,61.99,high,low,6,namesilo,,,29/09/2026 13:46
 5e88a9f2-c894-444e-9246-853bb1d87d66,choler.tours,available,10.99,61.99,medium,low,6,namesilo,,,19/09/2026 06:04
 b2a7bfa7-5b31-449a-b8cd-cca6b94a9c09,unstable.tours,available,5.98,81.98,high,low,8,namecheap,,,18/08/2026 09:17
 95394640-3d4d-44da-a651-abea5d57dddc,increased.tours,available,5.98,81.98,high,low,9,namecheap,,,25/09/2026 08:09
+a0aab2c6-84b7-4c5c-9d35-acce5587cc27,degrade.tours,available,5.57,51.58,medium,low,7,dynadot,,,01/10/2026 22:09
 9691fb1c-76ba-49e6-8b9b-281b06895068,fastest.tours,available,5.98,81.98,high,low,7,namecheap,,,14/09/2026 17:49
 c61e8254-8a60-45a7-b4a0-69752969cd6b,aphesis.tours,available,10.99,61.99,medium,low,7,namesilo,,,19/09/2026 16:55
 4843b4d0-7d27-4efa-9172-1e2df2497946,mcleod.tours,available,10.99,61.99,high,low,6,namesilo,,,27/09/2026 06:53
@@ -290,6 +312,7 @@ c07d1377-0117-47b2-8b9b-c1e7a8f5dcce,retailed.tours,available,10.99,61.99,medium
 3cf711fe-dc48-4a02-9a94-a17834123f88,diocesan.tours,available,5.98,81.98,medium,low,8,namecheap,,,14/08/2026 08:18
 c28e680a-1ac7-4189-b679-759c7e52f4ea,pierce.tours,available,5.38,49.88,high,low,6,spaceship,,,27/09/2026 13:38
 bc4bff7b-db81-4bfa-bb91-54b65b4cf55c,turkestan.tours,available,5.66,49.95,medium,low,9,porkbun,,,30/09/2026 03:05
+82b0d594-b2c2-4c2e-9e3b-09b31b18fb11,streamline.tours,available,5.38,49.88,high,low,10,spaceship,,,01/10/2026 22:14
 1306cf32-6441-40e7-8243-cbfb501543c5,hilarious.tours,available,5.98,81.98,high,low,9,namecheap,,,21/08/2026 09:21
 42254942-abef-41ba-920c-1d1d3f4672d7,axis.tours,available,5.38,49.88,high,medium,4,spaceship,,,28/09/2026 23:58
 803aa831-2874-4ce8-b433-925889cabd4c,advil.tours,available,10.99,61.99,medium,low,5,namesilo,,,17/09/2026 11:20
@@ -324,6 +347,7 @@ baffac76-1cd4-4c6b-bd45-a877898ed2ab,goofy.tours,available,5.98,81.98,medium,low
 675c2b58-747f-4d17-8268-e6e8b9cbbea4,hominal.tours,available,5.98,81.98,medium,low,7,namecheap,,,21/08/2026 11:35
 34066152-bd8c-4ff6-9bd9-fb30ba5684bc,agdistis.tours,available,10.99,61.99,medium,low,8,namesilo,,,17/09/2026 16:43
 276abab9-1373-4918-b83e-e9e3d3abd68c,qualities.tours,available,10.99,61.99,medium,low,9,namesilo,,,28/09/2026 08:30
+0322d57f-a031-4ca2-bfcc-009935a70bbd,jeddah.tours,available,10.99,61.99,high,low,6,namesilo,,,02/10/2026 05:29
 733ef3f3-6b98-44bb-ac3a-248a4df2a82a,prereq.tours,available,5.38,49.88,high,low,6,spaceship,,,30/09/2026 20:25
 73838cfb-014e-4c4c-bcb2-f21b4eb95c14,perimeter.tours,available,48.2,48.2,high,low,9,cloudflare,,,28/09/2026 01:41
 70c2b35a-59fd-4238-9791-52505fe17c9d,nonsense.tours,available,48.2,48.2,high,low,8,cloudflare,,,30/09/2026 22:57
@@ -339,11 +363,12 @@ eb7780b7-d31e-4f4b-95fa-b50449bb11c0,beg.tours,available,5.38,49.88,high,low,3,s
 0805b872-3276-4d7b-8ca0-62631a8ef4f6,possess.tours,available,10.99,61.99,high,low,7,namesilo,,,26/09/2026 03:38
 427fe88f-f1e2-4e09-b7d7-03b89277c675,stacey.tours,available,48.2,48.2,medium,low,6,cloudflare,,,28/09/2026 07:44
 1f331ec4-c2a5-45ee-8b25-e2e93ebebb0e,evenings.tours,available,5.38,49.88,medium,low,8,spaceship,,,29/09/2026 05:28
-22d328a9-6ac4-4a0d-b514-f43b2b9bb7d8,adaptive.tours,available,5.38,49.88,high,low,8,spaceship,,,28/09/2026 16:57
+22d328a9-6ac4-4a0d-b514-f43b2b9bb7d8,adaptive.tours,available,10.99,61.99,high,low,8,namesilo,,,02/10/2026 01:04
 9f399e5f-0732-43d8-900a-b983decb6154,manx.tours,available,5.98,81.98,high,low,4,namecheap,,,24/08/2026 15:32
 ad514b21-5149-4b76-8eca-5c980a07fd62,fervid.tours,available,5.98,81.98,medium,low,6,namecheap,,,06/08/2026 16:19
 411521bb-59d4-4261-8320-6c56b64c74d0,schedules.tours,available,5.66,49.95,medium,low,9,porkbun,,,29/09/2026 05:57
 de15e0dd-3c7d-4ee4-8a82-f9c9c459aa80,indigent.tours,available,5.98,81.98,medium,low,8,namecheap,,,14/08/2026 04:34
+d3930963-5ac3-4728-9372-36079aa26232,bahr.tours,available,5.38,49.88,medium,low,4,spaceship,,,01/10/2026 16:27
 41474f55-6269-42eb-b300-c43bae175e03,cramp.tours,available,5.57,51.58,medium,low,5,dynadot,,,30/09/2026 16:50
 a3bc494e-ba6d-4d56-b67f-8f48c6500813,berg.tours,available,10.99,61.99,high,low,4,namesilo,,,18/09/2026 02:21
 43fc216e-5553-42c5-9844-69ddb6de52c1,arguments.tours,available,10.99,61.99,medium,low,9,namesilo,,,16/09/2026 05:03
@@ -369,6 +394,7 @@ f52ff684-4784-4339-a9d4-846f3ee3f618,bilgewater.tours,available,10.99,61.99,medi
 0ab354f4-3c33-408d-8ed2-7d48070a8b5a,compactly.tours,available,5.98,81.98,medium,low,9,namecheap,,,14/09/2026 07:35
 3de2dffb-5ef9-4b1e-8cb8-06625b218e7f,sensory.tours,available,5.38,49.88,high,low,7,spaceship,,,27/09/2026 20:08
 53c79ca0-d5b7-4435-8649-18c8e8c416ee,cagey.tours,available,5.98,81.98,medium,low,5,namecheap,,,11/08/2026 13:19
+4104323e-2855-43d6-8d6e-8f00557026b1,flamingo.tours,resell,,,high,low,8,,,,02/10/2026 04:52
 f08998da-2126-435e-b5f9-c02c7979f489,brushy.tours,available,5.98,81.98,medium,low,6,namecheap,,,10/08/2026 20:19
 590f23dd-ba05-427d-88ac-e24e4c346fc9,flippant.tours,available,5.98,81.98,medium,low,8,namecheap,,,18/08/2026 08:32
 ba63a7e6-6b92-41bd-874d-200628c28b90,vocalic.tours,available,5.98,81.98,medium,low,7,namecheap,,,13/09/2026 06:26
@@ -387,6 +413,7 @@ df54f260-7f6e-4f40-8baf-98db68bb9000,armillary.tours,available,5.98,81.98,medium
 337bfe1d-da13-48c1-96e9-4922773f4d4a,segment.tours,available,5.38,49.88,high,low,7,spaceship,,,28/09/2026 20:24
 a2de854e-77e8-4639-9d4d-228d38d72368,lineup.tours,available,48.2,48.2,medium,low,6,cloudflare,,,29/09/2026 23:05
 742f6cef-ed1a-4e96-8c38-b39680774e48,enhancement.tours,available,5.38,49.88,high,low,11,spaceship,,,30/09/2026 23:26
+6300d47d-dc96-4bb1-8fe0-ec9df3fa887a,pullman.tours,available,5.98,81.98,high,low,7,namecheap,,,01/10/2026 21:24
 f28361df-8e13-41d2-a47e-61e40988991b,smug.tours,available,5.98,81.98,high,low,4,namecheap,,,10/09/2026 02:05
 ad4e1a8b-0a34-49bd-a079-866934a4317a,blackjack.tours,available,10.99,61.99,high,low,9,namesilo,,,24/09/2026 00:44
 fb25efcb-93c4-4ed5-9e3e-162044a2fe18,reportedly.tours,available,5.98,81.98,medium,low,10,namecheap,,,15/09/2026 23:15
@@ -416,6 +443,7 @@ f4b33e60-549a-4e86-95f1-6577f6623620,bannock.tours,available,10.99,61.99,medium,
 cbf9c3ca-8b81-4a65-9795-3a8f92e6c12f,antigone.tours,available,5.98,81.98,medium,low,8,namecheap,,,19/09/2026 14:26
 1e4720e3-61f5-40e0-b6c7-c1221ca20572,gita.tours,available,5.98,81.98,medium,low,4,namecheap,,,23/09/2026 12:33
 6e64a0b0-e19c-4636-a27e-bcad7512d51b,tennessee.tours,available,5.38,49.88,high,low,9,spaceship,,,28/09/2026 11:00
+65b10985-24cf-4016-9cd0-fe3e9bd8e1c4,manitowoc.tours,available,5.38,49.88,medium,low,9,spaceship,,,01/10/2026 11:51
 51215a49-b6da-4cd6-910f-7ad803fa9cbf,supremely.tours,available,10.99,61.99,medium,low,9,namesilo,,,16/09/2026 07:39
 cff0284c-8b20-428d-b4cb-2a446a69e424,concludes.tours,available,5.38,49.88,medium,low,9,spaceship,,,29/09/2026 05:51
 c41cd9ab-dd57-4534-8429-5651d7b4b066,corrosive.tours,available,5.98,81.98,medium,low,9,namecheap,,,13/08/2026 02:07
@@ -423,10 +451,11 @@ c41cd9ab-dd57-4534-8429-5651d7b4b066,corrosive.tours,available,5.98,81.98,medium
 2fb6a3ff-8ffa-4cfd-b90e-8527d1dd24f9,argal.tours,available,5.98,81.98,medium,low,5,namecheap,,,20/09/2026 04:10
 7b8b1bc1-849c-4e95-a4ba-414bd079b6aa,gastropod.tours,available,5.98,81.98,medium,low,9,namecheap,,,12/09/2026 14:04
 b61a75d3-78d3-4095-aa04-8f9272014440,rounded.tours,available,5.98,81.98,high,low,7,namecheap,,,19/09/2026 15:40
-1567cde9-d66b-4e8e-9e0d-d4142591f3f9,centralised.tours,available,9.99,,high,low,11,name.com,,,
+1567cde9-d66b-4e8e-9e0d-d4142591f3f9,centralised.tours,available,10.99,61.99,high,low,11,namesilo,,,02/10/2026 01:46
 ff335194-60d5-4ea4-a182-6d6256c5d379,auroral.tours,available,10.99,61.99,medium,low,7,namesilo,,,22/09/2026 13:08
 eb15d43b-dccc-4927-9149-d3694bd06f26,disability.tours,available,10.99,61.99,high,low,10,namesilo,,,24/09/2026 22:26
 143e2e21-a5ba-41d2-82c1-7ccac94c4d7c,starred.tours,available,5.98,81.98,medium,low,7,namecheap,,,07/08/2026 08:52
+6718dcfb-da0f-4c0a-8c3a-883984430351,gauze.tours,available,10.99,61.99,high,low,5,namesilo,,,02/10/2026 05:01
 2625bd83-bd97-44f4-b44e-5e6c08287ff4,anticipant.tours,available,5.98,81.98,medium,low,10,namecheap,,,
 16bfc083-6cea-44b6-95e1-a2039537f191,anodic.tours,available,5.98,81.98,high,low,6,namecheap,,,
 06bbd55a-d56f-44d5-989c-2e364b1d3fdd,rand.tours,available,10.99,61.99,high,low,4,namesilo,,,21/09/2026 10:39
@@ -434,7 +463,7 @@ f779cf08-b4bb-45b8-802c-7df2146e9d28,failure.tours,available,5.98,81.98,high,low
 faa3b823-570f-4742-a4db-94536d62d33c,reveal.tours,available,10.99,61.99,high,low,6,namesilo,,,30/09/2026 16:44
 e8a61886-ae3b-48c8-9edf-e9e9b9c034d9,utilised.tours,available,5.98,81.98,medium,low,8,namecheap,,,13/09/2026 00:07
 232f5279-179a-4044-87de-c9055ce18b31,artillery.tours,available,10.99,61.99,high,low,9,namesilo,,,20/09/2026 11:43
-4c2bcdc6-be06-411b-9a2e-53dc4063c571,saler.tours,available,9.99,,medium,low,5,name.com,,,
+4c2bcdc6-be06-411b-9a2e-53dc4063c571,saler.tours,available,5.57,51.58,medium,low,5,dynadot,,,01/10/2026 12:20
 443f5ee9-a903-4a24-bbf9-6c80e09d3ea4,scurvy.tours,available,5.98,81.98,medium,low,6,namecheap,,,
 3187e95c-e942-413c-a494-43fed22f8ed4,sens.tours,available,5.38,49.88,high,low,4,spaceship,,,01/10/2026 01:48
 8bf78cb9-12d3-4f5a-ad5c-86fcd551e8a2,properly.tours,available,5.98,81.98,medium,low,8,namecheap,,,13/08/2026 21:12
@@ -467,6 +496,8 @@ e4b2b1d9-83af-4d21-822b-283e7319e71f,tells.tours,available,10.99,61.99,medium,lo
 6f3276d3-1c0b-4d93-92be-117b87c575e0,nonsteroid.tours,available,5.98,81.98,medium,low,10,namecheap,,,03/09/2026 20:43
 e4690878-e39a-47b6-adaf-00db6833ae36,auspices.tours,available,10.99,61.99,medium,low,8,namesilo,,,17/09/2026 12:16
 e4014e83-d048-4d48-985e-775930d171eb,transported.tours,available,10.99,61.99,high,low,11,namesilo,,,16/09/2026 07:05
+943258d4-b424-4350-b973-dc5f0f9ce2ed,mamluk.tours,available,10.99,61.99,medium,low,6,namesilo,,,01/10/2026 06:56
+e8c5b012-db92-4a2b-98ac-87c21c3941e2,gunnison.tours,available,48.2,48.2,medium,low,8,cloudflare,,,01/10/2026 12:09
 99d9bd23-80d6-442e-b162-ed4eb89deacc,contacting.tours,available,10.99,61.99,medium,low,10,namesilo,,,01/10/2026 00:49
 ec4bd2d6-8f06-484f-917d-5763851a7c1b,giovanni.tours,available,10.99,61.99,high,low,8,namesilo,,,25/09/2026 14:42
 d8c767b7-40c8-4a44-8d83-55f0c2913c83,wave.tours,resell,,,high,medium,4,,,,29/09/2026 03:58
@@ -497,6 +528,7 @@ d63ccd47-dbb2-468c-bb1c-72e38af87c09,dominate.tours,available,5.98,81.98,high,lo
 1106e3ca-317c-4da1-b74d-6b5ebcbae4dd,weary.tours,available,10.99,61.99,medium,low,5,namesilo,,,22/09/2026 15:10
 a4d53e65-dfdb-4798-b5d8-2df497e18829,bills.tours,available,10.99,61.99,high,low,5,namesilo,,,18/09/2026 06:49
 96d99e64-7fb9-4044-be92-c232ad4b2f8d,provinces.tours,available,10.99,61.99,medium,low,9,namesilo,,,18/09/2026 15:35
+471b8395-fbbd-4f80-95ef-d654343ab49f,vasari.tours,available,5.98,81.98,medium,low,6,namecheap,,,01/10/2026 19:48
 010bf0c6-a5da-43f3-bf12-30ef55573dd6,frothing.tours,available,5.98,81.98,medium,low,8,namecheap,,,18/08/2026 09:42
 09922ed6-0997-47d5-b983-b12f5f7f11cc,epirus.tours,available,10.99,61.99,medium,low,6,namesilo,,,30/09/2026 09:34
 24292bec-160c-4b6d-b118-4e96fee2d59c,decca.tours,available,10.99,61.99,medium,low,5,namesilo,,,28/09/2026 21:44
@@ -505,11 +537,12 @@ d6ee703c-04aa-450e-bc81-64f713464428,monument.tours,premium,,,high,low,8,,,,28/0
 7ee226e8-b20b-4586-aba3-bfdd69581f02,bribable.tours,available,5.98,81.98,medium,low,8,namecheap,,,11/08/2026 03:42
 67883ca1-132c-40c3-aa6e-c9c7724c106c,wits.tours,available,5.38,49.88,high,low,4,spaceship,,,29/09/2026 14:09
 66a9e5a1-4166-4d87-9d40-38430cf4adf7,nigger.tours,available,5.38,49.88,high,medium,6,spaceship,,,29/09/2026 19:25
-c4acb848-a82b-4c00-8391-7ee09e8f99c8,cnn.tours,available,9.99,,high,low,3,name.com,,,
+c4acb848-a82b-4c00-8391-7ee09e8f99c8,cnn.tours,available,5.38,49.88,high,low,3,spaceship,,,02/10/2026 04:30
 74ef8dee-409c-43c3-86dd-e91ddbe3c599,durga.tours,available,5.38,49.88,high,low,5,spaceship,,,01/10/2026 01:49
 8fbfc0b1-7d88-4496-a3ed-b6894b75d208,tributary.tours,available,5.98,81.98,high,low,9,namecheap,,,12/08/2026 20:32
 c182c571-76d1-4696-a75f-21f196889054,viewless.tours,available,5.98,81.98,medium,low,8,namecheap,,,13/09/2026 05:40
 45936348-d50d-455c-a739-8e258f570041,conflicts.tours,available,5.98,81.98,medium,low,9,namecheap,,,19/09/2026 21:22
+13e328d2-c5e2-4773-ab76-a33710d3318b,renton.tours,available,48.2,48.2,high,low,6,cloudflare,,,01/10/2026 11:20
 870d9ecf-fcb9-43d4-a679-e89728fa8763,motionless.tours,available,5.98,81.98,medium,low,10,namecheap,,,25/08/2026 07:28
 2e34990e-0a5e-4ded-9729-061e69b75ea4,warp.tours,available,48.2,48.2,high,medium,4,cloudflare,,,29/09/2026 13:37
 8e6aaa61-db74-4724-a483-276aa45b00c5,asura.tours,available,5.98,81.98,medium,low,5,namecheap,,,20/09/2026 18:26
@@ -521,6 +554,7 @@ c75b4e43-fcea-4e10-9528-d3bd40336c14,domesticated.tours,available,5.57,51.58,hig
 80bc30bc-1876-4b54-9e06-61439788f268,fungal.tours,available,5.98,81.98,medium,low,6,namecheap,,,18/08/2026 18:28
 42c1cdd1-1f7d-44a2-9a9d-bcb239ed7305,mindless.tours,available,5.98,81.98,medium,low,8,namecheap,,,07/08/2026 02:48
 9371c124-f2ca-4817-8e05-ddc8481db17b,somnolent.tours,available,5.98,81.98,medium,low,9,namecheap,,,10/09/2026 11:38
+03bfbbff-8349-4cb2-a8bd-e8b74914a8fc,cvs.tours,available,5.38,49.88,high,low,3,spaceship,,,01/10/2026 23:45
 b8b08bde-c138-4ef7-b835-14aa28a221f9,hurd.tours,available,10.99,61.99,medium,low,4,namesilo,,,28/09/2026 22:24
 fb6d9114-b71b-4cd1-b389-d59afea8346a,doubled.tours,available,5.98,81.98,high,low,7,namecheap,,,14/08/2026 16:55
 ddb64504-91b0-4625-a13c-a03e707b8444,encodes.tours,available,5.98,81.98,low,low,7,namecheap,,,28/09/2026 17:50
@@ -581,9 +615,9 @@ a5785988-c8fc-491d-b669-7471c11122f9,moneyless.tours,available,5.98,81.98,medium
 9410631d-48f5-429a-a153-9a5a54f4f98e,violating.tours,available,10.99,61.99,low,low,9,namesilo,,,29/09/2026 05:13
 381f1288-441d-4fad-b389-b7012e36d289,adorable.tours,available,5.98,81.98,high,low,8,namecheap,,,21/09/2026 19:18
 ba49a29b-0f9d-432a-8f63-82d7fdaa91da,essen.tours,available,5.38,49.88,medium,low,5,spaceship,,,28/09/2026 19:08
-d9080ea6-84b7-400e-bbf8-75e456923a9f,trillionaire.tours,available,9.99,,high,low,12,name.com,,,
-f2ca602b-5429-4357-818c-4091d937bdb2,disposed.tours,available,9.99,,high,low,8,name.com,,,
-faacd514-dab9-4505-80fc-ec5db0368dba,artificial.tours,available,48.2,48.2,high,low,10,cloudflare,,,29/09/2026 08:59
+d9080ea6-84b7-400e-bbf8-75e456923a9f,trillionaire.tours,available,5.38,49.88,high,low,12,spaceship,,,01/10/2026 22:35
+f2ca602b-5429-4357-818c-4091d937bdb2,disposed.tours,available,5.38,49.88,high,low,8,spaceship,,,01/10/2026 17:48
+faacd514-dab9-4505-80fc-ec5db0368dba,artificial.tours,available,5.98,81.98,high,low,10,namecheap,,,02/10/2026 01:38
 51cd13a4-f243-4a48-8fea-f9cda957c98f,alterable.tours,available,10.99,61.99,medium,low,9,namesilo,,,22/09/2026 02:18
 cd84f812-5444-4c4c-87fa-427a23541fdd,await.tours,available,5.57,51.58,high,low,5,dynadot,,,30/09/2026 15:31
 e150aed6-2a7d-4aee-ad55-49a1dda05d4a,clarinet.tours,available,5.38,49.88,high,low,8,spaceship,,,29/09/2026 11:55
@@ -605,14 +639,16 @@ d4942aca-417f-490c-bca1-af6499b4d8fe,aucuba.tours,available,10.99,61.99,medium,l
 49dd5e09-5cb3-47e2-abfe-69ac0c902a49,crease.tours,available,5.98,81.98,high,low,6,namecheap,,,13/08/2026 07:14
 fd0d9176-9052-4568-ba1b-6aad7ba1e03e,tired.tours,available,10.99,61.99,medium,low,5,namesilo,,,22/09/2026 16:41
 7fb6f389-2cb5-4018-8ace-6f714340c42b,interbrain.tours,available,10.99,61.99,medium,low,10,namesilo,,,23/09/2026 11:55
+bbd798ac-a637-4ab8-804a-bd2d233194d1,grammy.tours,available,5.38,49.88,high,low,6,spaceship,,,01/10/2026 23:31
 9be2e85d-1b75-4838-a644-1904d21944b4,camisole.tours,available,10.99,61.99,high,low,8,namesilo,,,24/09/2026 11:52
 0957444a-17da-46ef-be34-db083dd2c200,amaranth.tours,available,10.99,61.99,high,low,8,namesilo,,,18/09/2026 15:50
 0097f922-a628-40fe-a361-e32ca35d70d8,whose.tours,available,10.99,61.99,high,low,5,namesilo,,,30/09/2026 22:25
+b5b31e98-8c7f-474f-b2d3-75dfbc05a2af,depiction.tours,available,5.38,49.88,high,low,9,spaceship,,,02/10/2026 04:19
 7025ada0-7b34-4ffb-b5a7-de4331f4d70b,hackensack.tours,available,10.99,61.99,medium,low,10,namesilo,,,30/09/2026 05:39
 6bfd3468-15a1-4255-b79e-15d552be7c2d,distortion.tours,available,5.98,81.98,high,low,10,namecheap,,,11/09/2026 21:55
 58526830-292d-4915-8bbd-5c1750ea0806,burney.tours,available,5.57,51.58,medium,low,6,dynadot,,,30/09/2026 05:26
 899ea8a8-9966-4142-9efd-3d4a59ebbdc1,bangle.tours,available,5.98,81.98,high,low,6,namecheap,,,22/09/2026 01:57
-dc9ca13f-f3ac-4208-a888-609ccb023b08,intercultural.tours,available,9.99,,high,low,13,name.com,,,
+dc9ca13f-f3ac-4208-a888-609ccb023b08,intercultural.tours,available,10.99,61.99,high,low,13,namesilo,,,01/10/2026 23:06
 5874e641-cb6e-4ebd-9ad2-aad42ffc717e,enjoyable.tours,available,5.98,81.98,high,low,9,namecheap,,,17/08/2026 09:17
 6c5926a9-e277-4857-8e33-f474cee529d2,hazard.tours,available,5.57,51.58,medium,low,6,dynadot,,,28/09/2026 18:59
 85767cb2-7b82-4e6c-9e77-0c9fd537542d,yob.tours,available,5.98,81.98,medium,low,3,namecheap,,,11/08/2026 08:46
@@ -634,13 +670,15 @@ c6c9c100-5033-476b-9b08-e051f160eb7e,smile.tours,resell,,,high,medium,5,Dynadot 
 5f39bc14-ea70-4731-bdd5-33d929d66770,henley.tours,available,5.57,51.58,high,low,6,dynadot,,,28/09/2026 03:36
 a0e275cd-f411-4d60-9ab7-48918ccb4fd2,submission.tours,available,5.38,49.88,high,low,10,spaceship,,,29/09/2026 07:36
 392f88f0-dded-45c5-b0cb-0cac6ee6a9a7,practicality.tours,available,5.98,81.98,high,low,12,namecheap,,,16/09/2026 09:33
-4fb1a159-18a7-415d-ad0f-f5238728cd11,airline.tours,available,5.38,49.88,high,low,7,spaceship,,,28/09/2026 19:37
+4fb1a159-18a7-415d-ad0f-f5238728cd11,airline.tours,available,48.2,48.2,high,low,7,cloudflare,,,02/10/2026 01:24
 b2a26a7e-9622-4422-8e2d-382e4af70c26,younger.tours,available,10.99,61.99,high,low,7,namesilo,,,25/09/2026 12:10
 549821d5-c877-4d1b-b99d-70a865197bfe,grandmother.tours,available,5.66,49.95,high,low,11,porkbun,,,30/09/2026 22:07
 8111119c-6141-484c-a502-2b186149cc5a,debt.tours,available,5.38,49.88,high,low,4,spaceship,,,29/09/2026 13:26
+3c77b321-8054-4612-bdad-6a616778f7b2,crowning.tours,available,5.38,49.88,high,low,8,spaceship,,,01/10/2026 22:58
 a9210852-9c7b-4c27-8524-938d4c671ec8,unrefined.tours,available,5.98,81.98,medium,low,9,namecheap,,,12/09/2026 17:28
 16e636a9-5739-4ef7-ae31-7f70ec493941,visitation.tours,available,10.99,61.99,high,low,10,namesilo,,,30/09/2026 11:12
 9aecb3e4-ac6e-4d9b-badc-9a6c387065f3,hemophilia.tours,available,10.99,61.99,medium,low,10,namesilo,,,24/09/2026 05:26
+19dfa283-a553-4a05-97dd-1ece2c7c9e98,landscapes.tours,available,48.2,48.2,medium,low,10,cloudflare,,,01/10/2026 18:18
 71931986-8fb3-4987-9b69-114fb9e1d59e,cabbage.tours,available,5.38,49.88,high,low,7,spaceship,,,29/09/2026 03:24
 34871bdb-1420-4409-ac72-e213d34267a0,perceive.tours,available,10.99,61.99,high,low,8,namesilo,,,29/09/2026 20:45
 4bc773ae-dc57-4084-b5f8-5eb288373cb3,rigid.tours,available,5.38,49.88,high,low,5,spaceship,,,27/09/2026 15:17
@@ -660,12 +698,14 @@ a6442813-2760-4d5a-83bf-724890af2cdb,postmortal.tours,available,5.98,81.98,mediu
 7d1c8d03-85da-4058-b011-c23d66eee3c9,dixie.tours,available,48.2,48.2,medium,low,5,cloudflare,,,28/09/2026 09:26
 866847af-a756-4b1e-97f1-66228aa4941a,cortical.tours,available,5.98,81.98,medium,low,8,namecheap,,,13/08/2026 02:35
 b27f49f6-a365-4a8b-9050-02fa34d1e79a,works.tours,available,5.98,81.98,high,low,5,namecheap,,,24/09/2026 21:13
+d0349102-4530-49f0-943c-66ccee13b19b,vienne.tours,available,48.2,48.2,medium,low,6,cloudflare,,,02/10/2026 04:28
 04b1b758-d0d2-48d4-9f8c-e7d79bf86d74,ruttish.tours,available,5.98,81.98,medium,low,7,namecheap,,,21/08/2026 14:10
 52e3fd65-0e84-4d7e-91ee-e94e74fa6354,pirate.tours,available,10.99,61.99,high,low,6,namesilo,,,29/09/2026 04:52
 b0afe4ba-2b39-4367-b406-217e4fc171d2,impending.tours,available,5.98,81.98,high,low,9,namecheap,,,21/08/2026 20:59
 2ebe5558-b896-47e7-9b1c-65876e730fbc,murdered.tours,available,5.98,81.98,medium,low,8,namecheap,,,03/09/2026 11:02
 f43a8f8f-e963-4c92-9ac2-53aceb14621c,stryker.tours,available,5.57,51.58,high,low,7,dynadot,,,30/09/2026 20:24
 d03978bc-8afe-4a96-beaf-411bdc15db38,cara.tours,available,5.38,49.88,high,low,4,spaceship,,,28/09/2026 22:02
+4b99ffc8-5d47-4ed8-8cb1-2c8fae0b82d1,letitia.tours,available,5.38,49.88,medium,low,7,spaceship,,,02/10/2026 00:22
 2e689262-2057-4339-ab62-9b978aeed53a,keno.tours,available,10.99,61.99,high,low,4,namesilo,,,22/09/2026 20:42
 2f530c7b-1418-4853-8c3f-01be79a348df,impose.tours,available,5.66,49.95,medium,low,6,porkbun,,,28/09/2026 10:13
 a68fc598-20fa-4534-831c-9ecda2e5e046,beshrew.tours,available,9.99,83.99,medium,low,7,name.com,,,13/08/2026 16:19
@@ -698,6 +738,7 @@ bda0d171-053d-47a6-9fe0-591a33a84c8b,gpo.tours,available,10.99,61.99,high,low,3,
 e1b5b14d-4924-4a5a-acd0-77bc5e7016e9,autarky.tours,available,10.99,61.99,medium,low,7,namesilo,,,21/09/2026 05:04
 ad2fc8d5-5217-47a7-97d7-d8907aa555a3,rampantly.tours,available,5.98,81.98,medium,low,9,namecheap,,,13/09/2026 11:58
 bfd1626e-606b-4a15-83e9-097a5ca93ca1,guards.tours,available,9.99,,high,low,6,name.com,,,
+591a19c9-c581-471b-98e3-411dea79dd3f,haight.tours,available,5.38,49.88,medium,low,6,spaceship,,,02/10/2026 04:03
 bc91c3a9-3a92-4e33-b58c-240af85cebb8,outlawed.tours,available,5.98,81.98,medium,low,8,namecheap,,,21/08/2026 19:52
 271cfb0c-ac8f-43bb-868d-4f40414b9b2c,modem.tours,available,5.98,81.98,high,low,5,namecheap,,,30/09/2026 04:48
 4614531e-5663-4d19-bfe9-7361501f3094,raul.tours,available,48.2,48.2,high,low,4,cloudflare,,,28/09/2026 22:04
@@ -740,16 +781,20 @@ d5fd8219-06eb-4b9d-8e36-d31821bea92a,advocacy.tours,available,9.99,83.99,high,lo
 88f748d3-47ea-4818-af34-81f269bb5428,tribes.tours,available,48.2,48.2,high,low,6,cloudflare,,,29/09/2026 11:09
 2643ced9-d7b0-4468-9505-7ee0e2c1f5dd,dogs.tours,available,5.98,81.98,high,low,4,namecheap,,,17/09/2026 11:22
 62814b91-54b9-4272-96e0-88318f3e8dc3,learnt.tours,available,9.99,,medium,low,6,name.com,,,
+dc456fa9-1361-4bab-b9f1-c3250d44ce18,hosted.tours,available,5.38,49.88,medium,low,6,spaceship,,,02/10/2026 02:16
 c706fd1b-e6dc-426c-91ee-b9129494730f,remembering.tours,available,9.99,,high,low,11,name.com,,,
 63265363-681b-4197-adc4-24d9a39bc466,immoral.tours,available,5.98,81.98,medium,low,7,namecheap,,,21/08/2026 21:10
 0d7186db-30d1-4d82-9f1e-6281acf7e1b4,agrees.tours,available,10.99,61.99,medium,low,6,namesilo,,,28/09/2026 12:39
+44d25e10-e048-4d0c-84e8-e0c4245877b7,hijacking.tours,available,48.2,48.2,medium,low,9,cloudflare,,,01/10/2026 19:58
 7b676aee-1d8d-4d56-a3bf-a099225e9727,customization.tours,available,5.98,81.98,medium,low,13,namecheap,,,30/09/2026 22:42
 d86c8f6f-fff4-4347-8d6c-d6206a81a772,der.tours,available,5.38,49.88,medium,low,3,spaceship,,,28/09/2026 20:56
-0cc05071-a476-4e3c-bd2c-e4c07ea16691,horse.tours,premium,78.54,78.54,high,low,5,namesilo,,,24/09/2026 13:18
+0cc05071-a476-4e3c-bd2c-e4c07ea16691,horse.tours,premium,68.51,68.51,high,low,5,spaceship,,,01/10/2026 18:22
 d0ed9628-901f-49d9-ad06-bfc127a4710d,shrubby.tours,available,5.98,81.98,medium,low,7,namecheap,,,18/08/2026 17:15
 6e51d13c-4ca1-4363-bcd6-3a82eafd0229,pitching.tours,available,10.99,61.99,high,low,8,namesilo,,,30/09/2026 06:51
 b41bd46d-c7ae-49ea-ae54-60519f40db44,bemidji.tours,available,10.99,61.99,high,low,7,namesilo,,,23/09/2026 07:16
 9f5e9433-74ff-47d6-82ee-648ed2afec9b,bye.tours,available,5.38,49.88,high,low,3,spaceship,,,28/09/2026 18:38
+83573462-534e-42d7-a76c-11ec650ae4e3,grievance.tours,available,48.2,48.2,medium,low,9,cloudflare,,,02/10/2026 05:07
+07417a03-6520-41c4-9591-4d5059ec31a1,sustaining.tours,available,10.99,61.99,high,low,10,namesilo,,,01/10/2026 23:00
 2ff07203-06d5-4fd7-9442-0690cba64345,hapless.tours,available,5.98,81.98,medium,low,7,namecheap,,,20/08/2026 23:48
 03c32c8e-9286-4644-99c0-027066927613,freshly.tours,available,5.98,81.98,high,low,7,namecheap,,,18/08/2026 15:18
 447b4caa-daa7-4631-93a1-831c39f472c5,hou.tours,available,10.99,61.99,high,low,3,namesilo,,,29/09/2026 10:03
@@ -768,6 +813,7 @@ c29d6f7a-c451-4c51-be39-5bb24353d172,monetary.tours,available,5.98,81.98,high,lo
 699cc04a-48b6-4486-b664-526b20e2ae57,sanely.tours,available,5.98,81.98,medium,low,6,namecheap,,,16/09/2026 00:33
 25696a93-2d28-4844-8e32-4b48d7446c3d,fleming.tours,available,10.99,61.99,high,low,7,namesilo,,,18/09/2026 05:49
 754aa7a0-562a-4e8d-8785-592f98ac12d6,textbook.tours,available,10.99,61.99,high,low,8,namesilo,,,23/09/2026 13:09
+7df3c4e2-2588-4f80-b6ab-8c588e2b69bf,ritter.tours,available,10.99,61.99,high,low,6,namesilo,,,01/10/2026 22:24
 1d80bf95-738e-477a-873e-914c3b0aac0a,hemorrhage.tours,available,10.99,61.99,medium,low,10,namesilo,,,24/09/2026 05:28
 4dd3e877-c9a2-456b-af7b-7bff60ba508a,thorough.tours,available,5.98,81.98,high,low,8,namecheap,,,17/08/2026 17:10
 41bdf201-bf08-4a34-9410-f9b8faddf4cc,entertained.tours,available,48.2,48.2,medium,low,11,cloudflare,,,29/09/2026 10:59
@@ -787,7 +833,7 @@ a49b1cc7-204d-4b21-92a9-70182f2bac7e,lashings.tours,available,5.98,81.98,high,lo
 8d67cf4a-0962-4869-8601-43937fbf81ff,cheaper.tours,available,5.57,51.58,medium,low,7,dynadot,,,28/09/2026 08:27
 3f19a8ca-a037-4724-acd4-c063e9710572,conducting.tours,available,48.2,48.2,high,low,10,cloudflare,,,29/09/2026 10:46
 8cf68877-6187-44bc-9f8e-16c8afcc1e3d,stimulation.tours,available,5.38,49.88,high,low,11,spaceship,,,29/09/2026 04:53
-7da5a656-aac3-4ed2-9278-deabd1cd82c5,tray.tours,available,5.38,49.88,medium,low,4,spaceship,,,28/09/2026 11:01
+7da5a656-aac3-4ed2-9278-deabd1cd82c5,tray.tours,available,5.38,49.88,high,low,4,spaceship,,,02/10/2026 01:23
 7383e3ab-6be7-450b-aabb-82b54585ef08,vacancy.tours,available,5.38,49.88,high,low,7,spaceship,,,29/09/2026 20:34
 aa33ad5c-bb79-4e7d-8df4-93ce03abe61f,counselor.tours,available,48.2,48.2,high,low,9,cloudflare,,,28/09/2026 13:47
 5d7311a3-8f43-482b-b72b-9d4499e22471,woodbine.tours,available,5.98,81.98,medium,low,8,namecheap,,,18/09/2026 20:11
@@ -823,7 +869,7 @@ c28caf7f-b461-4a8a-aaaf-a5fdde2ef3ac,resolve.tours,available,5.98,81.98,high,low
 4543d8a5-4261-4d27-b3fa-a6c8687f732b,addicts.tours,available,9.99,109.99,medium,low,7,godaddy,,,01/10/2026 00:46
 a87404bc-d53d-4a72-b8e1-d4d9fe2a1dc1,pdp.tours,available,5.38,49.88,high,low,3,spaceship,,,28/09/2026 21:36
 548280f2-cd79-4d92-b77b-61439e31f87a,employ.tours,available,5.98,81.98,high,low,6,namecheap,,,08/09/2026 13:39
-5540fbde-fb32-400e-a66a-f929b5b1470d,expecting.tours,available,9.99,,high,low,9,name.com,,,
+5540fbde-fb32-400e-a66a-f929b5b1470d,expecting.tours,available,5.98,81.98,high,low,9,namecheap,,,01/10/2026 18:13
 453091e4-9f1a-4d55-a2f9-350e0ec07f1c,coequal.tours,available,5.98,81.98,medium,low,7,namecheap,,,12/08/2026 15:22
 32fa9513-5750-482a-b6bb-757a1f68a555,frames.tours,available,5.38,49.88,medium,low,6,spaceship,,,29/09/2026 11:27
 6597d6ab-1817-4d11-9327-0d82f3b637ab,preparations.tours,available,10.99,61.99,medium,low,12,namesilo,,,29/09/2026 05:22
@@ -831,13 +877,14 @@ a87404bc-d53d-4a72-b8e1-d4d9fe2a1dc1,pdp.tours,available,5.38,49.88,high,low,3,s
 2e0c47fe-47a2-41c3-8efc-9efcb34f4b67,shelf.tours,available,10.99,61.99,high,low,5,namesilo,,,30/09/2026 02:43
 1fa41b0e-2952-4871-bb82-c26803914406,batavia.tours,available,48.2,48.2,high,low,7,cloudflare,,,27/09/2026 18:11
 9992b31c-0107-4b45-a552-cf449bbc3e22,celebrating.tours,available,10.99,61.99,high,low,11,namesilo,,,27/09/2026 06:50
-17b7da96-d101-45d0-abb1-a7aeaa67de62,carribean.tours,available,9.99,,high,low,9,name.com,,,
+17b7da96-d101-45d0-abb1-a7aeaa67de62,carribean.tours,available,5.38,49.88,high,low,9,spaceship,,,01/10/2026 23:31
 535f3298-bbfd-4a17-9d38-502c3ea8cfb6,hotcake.tours,available,10.99,61.99,high,low,7,namesilo,,,22/09/2026 14:33
 17a16410-aa41-45c0-8da3-9e6067d05eda,adps.tours,available,10.99,61.99,medium,low,4,namesilo,,,17/09/2026 09:53
 c249e256-ff4e-49fb-9391-bcaa185cf510,selfmade.tours,available,5.98,81.98,high,low,9,namecheap,,,10/09/2026 02:03
 d64915a2-fc8f-4160-b7c9-524d8833e3ba,kaunas.tours,available,10.99,61.99,medium,low,6,namesilo,,,01/10/2026 02:48
 67cf38df-2cd8-43f9-92f7-7037faabe687,robert.tours,available,5.98,81.98,high,low,6,namecheap,,,25/09/2026 07:17
 c074719f-cba0-4ef2-9ed7-cc78717c5ed3,pennyroyal.tours,available,5.98,81.98,medium,low,10,namecheap,,,18/09/2026 20:31
+bb607a7f-c26d-453d-825d-c0a6e17711e0,paddy.tours,available,5.98,81.98,high,low,5,namecheap,,,01/10/2026 20:32
 aa48f44d-e703-4459-acfd-9431c8ee3fda,facts.tours,available,5.98,81.98,high,low,5,namecheap,,,30/09/2026 20:53
 52e9abfa-4d13-4412-a770-5751869d06be,abbess.tours,available,10.99,61.99,medium,low,6,namesilo,,,16/09/2026 14:23
 27872c76-aba1-43e2-bd2d-1f04e324df99,logy.tours,available,5.98,81.98,medium,low,4,namecheap,,,18/08/2026 09:55
@@ -848,7 +895,7 @@ e5405e2d-a1a1-4356-9d17-72412befeeb5,commuter.tours,available,10.99,61.99,high,l
 e36f1110-70c8-4766-a816-dc4de90f5868,barm.tours,available,10.99,61.99,medium,low,4,namesilo,,,22/09/2026 06:34
 ddefebe8-763b-4ff6-8559-2fb33d00ada7,soundly.tours,available,10.99,61.99,medium,low,7,namesilo,,,16/09/2026 05:34
 8af3e548-5a92-4645-956c-6a5ed4be0bb8,expectancy.tours,available,10.99,61.99,high,low,10,namesilo,,,19/09/2026 14:15
-3eee9e9c-6cf5-452c-b854-232d039c46e4,designers.tours,available,5.98,81.98,high,low,9,namecheap,,,29/09/2026 12:09
+3eee9e9c-6cf5-452c-b854-232d039c46e4,designers.tours,available,5.38,49.88,high,low,9,spaceship,,,01/10/2026 18:23
 12f44c89-edcb-4d26-845c-feb74306ebdf,population.tours,available,5.98,81.98,high,low,10,namecheap,,,27/09/2026 05:04
 6a2bed84-425a-46ff-b44d-46e55d63ba33,bugbane.tours,available,5.98,81.98,medium,low,7,namecheap,,,18/09/2026 20:09
 7e94d964-5c1b-494a-ad7f-28e65ea00887,metastatic.tours,available,5.98,81.98,medium,low,10,namecheap,,,24/08/2026 21:49
@@ -858,6 +905,7 @@ ee36debd-8119-4df9-a24c-477dbe3fb31a,cowper.tours,available,5.38,49.88,high,low,
 511a0cfe-8360-4e01-aabb-55b757371070,scapegrace.tours,available,10.99,61.99,medium,low,10,namesilo,,,24/09/2026 01:41
 064cff63-4363-4528-9343-85aa86e91f7f,recovery.tours,available,5.98,81.98,high,low,8,namecheap,,,08/09/2026 13:21
 e5d783a0-3126-414d-896b-28419959a8ae,yarn.tours,available,10.99,61.99,high,low,4,namesilo,,,29/09/2026 07:56
+906234cb-7e9e-4658-a943-fb3b9fb50eeb,maud.tours,available,5.38,49.88,medium,low,4,spaceship,,,01/10/2026 07:00
 32bf45d6-24d6-4cc1-b0a0-73f4877f20d1,eminently.tours,available,5.98,81.98,medium,low,9,namecheap,,,14/09/2026 15:19
 3de83918-405b-48b9-8bcd-0d229735f616,subscribe.tours,available,5.38,49.88,high,low,9,spaceship,,,27/09/2026 22:05
 241f8821-485a-49b7-9520-813f67c6a00d,dash.tours,resell,,,high,medium,4,,,,28/09/2026 01:44
@@ -879,6 +927,8 @@ fc48ae2f-4a21-444d-b3e5-1045d3e613ae,supposed.tours,available,5.98,81.98,high,lo
 f3ed03db-a13d-4343-b1cc-d9806ad7d5f6,legibly.tours,available,5.98,81.98,medium,low,7,namecheap,,,14/09/2026 11:06
 d4088332-be80-4dff-84f4-027192d796c9,slovene.tours,available,5.57,51.58,medium,low,7,dynadot,,,28/09/2026 20:30
 4a1ffb43-b04a-4d38-9051-f48880eb036a,hedged.tours,available,5.98,81.98,medium,low,6,namecheap,,,21/08/2026 05:50
+444898a0-bed7-4c2e-808a-13f7e9a4d571,unsettling.tours,available,5.38,49.88,medium,low,10,spaceship,,,01/10/2026 22:49
+3d26fa05-8164-45c7-a152-003c8a594e5e,cottages.tours,available,10.99,61.99,high,low,8,namesilo,,,02/10/2026 02:58
 600bb23f-b455-4b32-bfb3-f030bf8bbcd4,carpenter.tours,available,5.38,49.88,high,low,9,spaceship,,,28/09/2026 01:36
 1718258a-4b72-4a3d-bca4-0c51ff54aeda,sidekick.tours,available,5.38,49.88,high,low,8,spaceship,,,30/09/2026 16:30
 ae94c5ba-8a10-4af9-be91-bb44de65b5fc,aeroplane.tours,available,5.98,81.98,high,low,9,namecheap,,,08/09/2026 20:39
@@ -903,7 +953,7 @@ e9e47cec-81c5-4add-84df-8a94c95573ca,clustered.tours,available,5.98,81.98,medium
 ffdfe088-118d-436d-9105-a1be2df90d9b,variables.tours,available,9.99,,medium,low,9,name.com,,,
 bf859fe2-3c64-4f3b-8249-edc71d9c1f1b,vesica.tours,available,10.99,61.99,medium,low,6,namesilo,,,24/09/2026 03:27
 38e6f7cb-b237-4868-9cd8-edb030bd5727,pierre.tours,available,10.99,61.99,high,low,6,namesilo,,,24/09/2026 12:24
-df8bec89-dff5-4ef2-85e6-fb98c15e999c,campaigning.tours,available,9.99,,high,low,11,name.com,,,
+df8bec89-dff5-4ef2-85e6-fb98c15e999c,campaigning.tours,available,10.99,61.99,high,low,11,namesilo,,,01/10/2026 23:43
 832bd879-20cc-4d7b-8153-81ae5085132f,turncoat.tours,available,5.98,81.98,medium,low,8,namecheap,,,06/08/2026 03:49
 f1f072c0-26ed-446c-9966-b8435e9ffb62,honour.tours,available,10.99,61.99,high,low,6,namesilo,,,16/09/2026 22:47
 8bef65b8-cf76-4d86-9985-a49b65c303a1,trick.tours,available,10.99,61.99,high,low,5,namesilo,,,22/09/2026 06:28
@@ -922,9 +972,10 @@ b6c49d17-0210-48fe-849f-3cc363fedfc0,ashram.tours,available,10.99,61.99,high,low
 bbaa749f-cb01-42e5-85ed-6f9b837cc837,misguided.tours,available,5.98,81.98,medium,low,9,namecheap,,,21/08/2026 18:57
 d249ad2e-0e91-4ab2-bebc-e73a8225d966,aldebaran.tours,available,10.99,61.99,medium,low,9,namesilo,,,18/09/2026 04:20
 7f0b95eb-823f-4b1e-9ab6-f53a1072cf61,digits.tours,available,9.99,,high,low,6,name.com,,,
+2ff6d8d2-2caa-4983-9dc5-6d6d9c74baa2,poa.tours,available,5.66,49.95,high,low,3,porkbun,,,01/10/2026 19:46
 dd83ab58-436b-436d-9bb8-38d5c4190e21,spongy.tours,available,5.98,81.98,medium,low,6,namecheap,,,10/09/2026 16:24
 c8dff556-b2ce-4793-b962-94fd834d5260,alleviant.tours,available,5.98,81.98,medium,low,9,namecheap,,,04/09/2026 23:46
-ebbaabab-de82-49ec-8c8d-b71c9d3b7216,bookkeeping.tours,available,48.2,48.2,high,low,11,cloudflare,,,28/09/2026 02:35
+ebbaabab-de82-49ec-8c8d-b71c9d3b7216,bookkeeping.tours,available,10.99,61.99,high,low,11,namesilo,,,01/10/2026 11:18
 495e8cb7-145a-4066-b35c-5bfbad64e18a,hmong.tours,available,5.98,81.98,high,low,5,namecheap,,,21/08/2026 10:02
 dc8848b2-55df-426b-9333-ecea32cbc006,awoke.tours,available,5.66,49.95,medium,low,5,porkbun,,,30/09/2026 14:18
 ead1d4ca-b9c4-419a-95fc-3fff4c44d3fc,managua.tours,available,10.99,61.99,medium,low,7,namesilo,,,30/09/2026 16:36
@@ -937,6 +988,7 @@ b7cd3655-bc24-4dbc-982d-1f950b01974b,successfully.tours,available,5.38,49.88,hig
 b9a50abc-a6e3-4bae-9cc4-0fa3a4760153,flick.tours,available,10.99,61.99,high,low,5,namesilo,,,29/09/2026 06:54
 9b45ac0b-ac1b-484d-b159-5ccc53f963bb,tardy.tours,available,5.98,81.98,medium,low,5,namecheap,,,09/08/2026 12:42
 32c18b2a-9f0e-47a8-906e-3d0a3ec45e7a,madonna.tours,available,10.99,61.99,high,low,7,namesilo,,,24/09/2026 06:06
+f361b324-14f1-4147-ad03-a974374e44a6,governmental.tours,available,5.38,49.88,medium,low,12,spaceship,,,01/10/2026 22:31
 3e4378a9-5fc8-496a-9e68-282493bbaf57,sequence.tours,available,10.99,61.99,high,low,8,namesilo,,,24/09/2026 14:56
 bf033f3c-16b6-4234-876c-b36952680eec,ecstasy.tours,available,5.38,49.88,high,low,7,spaceship,,,29/09/2026 12:00
 e84ecc28-d57c-4149-b5dd-e7c8292c1027,slimly.tours,available,5.98,81.98,medium,low,6,namecheap,,,16/09/2026 02:34
@@ -947,55 +999,3 @@ c7183ff2-2fc8-46b5-9ece-b00eaecc73fc,tournament.tours,available,10.99,61.99,high
 fd3b1d68-2af6-4e57-a4df-2c4e46524619,briggs.tours,available,5.98,81.98,high,low,6,namecheap,,,25/09/2026 15:50
 0d47eb52-96ba-4a88-b26e-1cff49674be2,denary.tours,available,5.98,81.98,medium,low,6,namecheap,,,13/08/2026 21:30
 9e0f8c84-e3a7-42f5-aae9-998c6034d0f8,terminology.tours,available,10.99,61.99,high,low,11,namesilo,,,30/09/2026 05:58
-eca458b1-a0c5-4bea-98d7-6619e9325075,varying.tours,available,5.98,81.98,high,low,7,namecheap,,,13/09/2026 01:31
-fd1d0a17-b657-4714-b6af-a1bf997be882,managing.tours,available,9.99,,high,low,8,name.com,,,
-df64b661-cfe7-47fd-83bb-e07b57372f41,cnc.tours,available,10.99,61.99,high,low,3,namesilo,,,30/09/2026 14:22
-10d51965-79bf-431c-bd5c-9639873a27fd,chiang.tours,available,10.99,61.99,medium,low,6,namesilo,,,25/09/2026 16:34
-e3412772-3dfd-4c97-bb76-b171be1eb73b,gruntle.tours,available,5.98,81.98,medium,low,7,namecheap,,,18/08/2026 22:14
-e96f030c-2ea1-4b9a-8496-7faf69e5ca3d,lin.tours,available,10.99,61.99,high,low,3,namesilo,,,28/09/2026 10:15
-d9796cef-ef09-4ddc-a753-9f62d4e5050b,asexuality.tours,available,10.99,61.99,medium,low,10,namesilo,,,20/09/2026 13:33
-d2a1704a-5aea-4e16-ba73-15a0ad52bc32,acipenser.tours,available,10.99,61.99,medium,low,9,namesilo,,,17/09/2026 01:47
-251baa50-010c-463e-a0a8-b30228460df3,gavin.tours,available,10.99,61.99,high,low,5,namesilo,,,26/09/2026 03:29
-ef961303-ceb4-4958-980c-b9027fb87c82,organization.tours,available,10.99,61.99,high,low,12,namesilo,,,30/09/2026 13:36
-b0852a0f-2eb1-4f82-965f-5b42d5738167,competition.tours,available,9.99,83.99,high,low,11,name.com,,,25/09/2026 16:42
-c4184ae0-dcc5-41ca-9b03-2cad101b6cf7,notify.tours,available,10.99,61.99,high,low,6,namesilo,,,30/09/2026 15:16
-e7a010e3-e524-4714-afc1-779a5dcd9a1d,aes.tours,available,10.99,61.99,high,low,3,namesilo,,,29/09/2026 09:48
-0451fe17-e075-4c0b-8bdf-7fe611359af6,remains.tours,available,10.99,61.99,medium,low,7,namesilo,,,27/09/2026 03:27
-951d1856-3414-4272-beb2-a4849b132de9,xia.tours,available,10.99,61.99,high,low,3,namesilo,,,29/09/2026 22:40
-2e31417d-eb9e-47f0-bad3-a96216546d5d,punishment.tours,available,10.99,61.99,high,low,10,namesilo,,,25/09/2026 09:51
-e54cc39e-6cdc-4610-9196-46fc724b0af6,electrons.tours,available,5.98,81.98,medium,low,9,namecheap,,,29/09/2026 16:19
-185f081f-c3f8-4153-9d06-34ce59434d5d,deb.tours,available,5.57,51.58,medium,low,3,dynadot,,,29/09/2026 06:35
-ae7178df-46a3-4e85-8a43-432f7b870dfb,neil.tours,available,10.99,61.99,high,low,4,namesilo,,,25/09/2026 13:57
-38fbcd1e-7cb5-49ff-ba05-115e3f83b5fe,agreed.tours,available,5.98,81.98,high,low,6,namecheap,,,21/09/2026 23:21
-9e4d5ae9-f478-4657-bb4a-15bf883e31c6,aunt.tours,available,10.99,61.99,high,low,4,namesilo,,,28/09/2026 23:17
-82964556-26e7-45ae-a5f4-6f653a48fb1b,shrunk.tours,available,5.98,81.98,medium,low,6,namecheap,,,01/10/2026 04:31
-2b9f17c0-3ee2-434d-958c-4ab68533b3e6,newburgh.tours,available,5.38,49.88,high,low,8,spaceship,,,29/09/2026 07:44
-f763be54-37f4-459c-b255-26a23b6b7e83,quintet.tours,available,5.98,81.98,high,low,7,namecheap,,,
-97283dcc-0dd9-49a3-a111-79dc4fea4340,unsaved.tours,available,5.98,81.98,medium,low,7,namecheap,,,12/09/2026 17:57
-eb4283f6-68f7-437c-8210-3cd664d9f968,kantian.tours,available,5.98,81.98,medium,low,7,namecheap,,,22/08/2026 15:06
-50e73eba-c6d8-4596-be8f-4a46ab474d3a,commix.tours,available,5.98,81.98,medium,low,6,namecheap,,,
-13933a66-50d9-442f-aa61-533255d5f8fb,jewell.tours,available,48.2,48.2,medium,low,6,cloudflare,,,29/09/2026 04:07
-88dfdec1-af80-4a8b-a5f1-8e412e878468,oft.tours,available,5.98,81.98,high,low,3,namecheap,,,14/09/2026 20:06
-0780dfe0-8b92-427a-917a-f2717d560ac2,declaration.tours,available,5.98,81.98,high,low,11,namecheap,,,28/09/2026 12:33
-29a022d6-eeea-4c02-b221-a0d9b5d19d5a,resisted.tours,available,48.2,48.2,medium,low,8,cloudflare,,,29/09/2026 16:36
-667cb5d5-f755-4864-bbff-5eeb71356621,barometric.tours,available,5.98,81.98,medium,low,10,namecheap,,,08/08/2026 20:06
-2b571732-c191-4e8b-9a48-832c193ad949,beep.tours,available,10.99,61.99,high,low,4,namesilo,,,23/09/2026 01:26
-36f3fcc0-c178-43da-a828-2e6897fd057a,doorway.tours,available,5.38,49.88,high,low,7,spaceship,,,28/09/2026 18:58
-fdb34a40-0b63-415f-8a4e-81c0019ba57d,kamehameha.tours,available,5.38,49.88,medium,low,10,spaceship,,,30/09/2026 12:36
-29b9a2ea-58af-4352-9da1-e0732160433e,unexciting.tours,available,5.98,81.98,medium,low,10,namecheap,,,12/09/2026 09:32
-7e24bccf-314c-405f-a42d-e71d57ce892b,hypaethral.tours,available,5.98,81.98,medium,low,10,namecheap,,,21/08/2026 16:39
-3ce3c7ea-ba85-483a-937a-6bae4c178c0e,unhatched.tours,available,5.98,81.98,medium,low,9,namecheap,,,12/09/2026 12:05
-0fc06d8c-0d14-44b8-9e11-b7d80ba358e6,serving.tours,available,9.99,83.99,high,low,7,name.com,,,25/09/2026 23:06
-87dff28a-197b-446e-a980-4720e979bafd,livable.tours,available,5.98,81.98,high,low,7,namecheap,,,24/08/2026 07:42
-cfac8a7d-78b4-40e1-a736-b6900cefacd0,faux.tours,available,5.98,81.98,high,low,4,namecheap,,,18/08/2026 00:12
-0176ce08-2e42-4615-a230-80247fa4162c,ats.tours,available,10.99,61.99,high,low,3,namesilo,,,29/09/2026 22:45
-693bedbb-7573-41c5-aea5-3f4519a586d0,holds.tours,available,10.99,61.99,medium,low,5,namesilo,,,28/09/2026 23:34
-71090006-27c8-44d9-9240-03a439806665,alveolus.tours,available,10.99,61.99,medium,low,8,namesilo,,,17/09/2026 22:03
-d3a693b4-8145-45bd-b6db-c99fca3b7ad3,incision.tours,available,10.99,61.99,high,low,8,namesilo,,,30/09/2026 01:58
-b9c3e19e-5afb-4a6d-b5b8-82587b2f83f7,susannah.tours,available,10.99,61.99,medium,low,8,namesilo,,,29/09/2026 04:06
-25fcf7fb-c86e-4734-bc75-3eb490c63506,unmixed.tours,available,5.98,81.98,medium,low,7,namecheap,,,12/09/2026 06:02
-7b7770b2-0491-4bd9-b4ef-09abdcede157,bpi.tours,available,10.99,61.99,high,low,3,namesilo,,,23/09/2026 22:46
-ed23a466-6795-4784-9795-12a86a91f063,contrast.tours,available,48.2,48.2,high,low,8,cloudflare,,,29/09/2026 11:28
-aa068d78-7d08-4883-a218-ccb11e6e6706,gev.tours,available,5.57,51.58,medium,low,3,dynadot,,,30/09/2026 12:48
-e87fbe33-848d-465c-8840-e09f1aa3e21f,improperly.tours,available,5.98,81.98,medium,low,10,namecheap,,,15/09/2026 04:32
-660a486e-8838-447c-85e5-79834a414adc,jitney.tours,available,10.99,61.99,high,low,6,namesilo,,,21/09/2026 05:56
